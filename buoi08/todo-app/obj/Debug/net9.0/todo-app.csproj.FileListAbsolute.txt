@@ -1,0 +1,15 @@
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi08\todo-app\bin\Debug\net9.0\todo-app.exe
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi08\todo-app\bin\Debug\net9.0\todo-app.deps.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi08\todo-app\bin\Debug\net9.0\todo-app.runtimeconfig.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi08\todo-app\bin\Debug\net9.0\todo-app.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi08\todo-app\bin\Debug\net9.0\todo-app.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi08\todo-app\obj\Debug\net9.0\todo-app.GeneratedMSBuildEditorConfig.editorconfig
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi08\todo-app\obj\Debug\net9.0\todo-app.AssemblyInfoInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi08\todo-app\obj\Debug\net9.0\todo-app.AssemblyInfo.cs
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi08\todo-app\obj\Debug\net9.0\todo-app.csproj.CoreCompileInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi08\todo-app\obj\Debug\net9.0\todo-app.sourcelink.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi08\todo-app\obj\Debug\net9.0\todo-app.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi08\todo-app\obj\Debug\net9.0\refint\todo-app.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi08\todo-app\obj\Debug\net9.0\todo-app.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi08\todo-app\obj\Debug\net9.0\todo-app.genruntimeconfig.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi08\todo-app\obj\Debug\net9.0\ref\todo-app.dll
