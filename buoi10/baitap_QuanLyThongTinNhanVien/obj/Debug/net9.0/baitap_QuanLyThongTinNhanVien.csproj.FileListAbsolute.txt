@@ -1,0 +1,15 @@
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi10\baitap_QuanLyThongTinNhanVien\obj\Debug\net9.0\baitap_QuanLyThongTinNhanVien.GeneratedMSBuildEditorConfig.editorconfig
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi10\baitap_QuanLyThongTinNhanVien\obj\Debug\net9.0\baitap_QuanLyThongTinNhanVien.AssemblyInfoInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi10\baitap_QuanLyThongTinNhanVien\obj\Debug\net9.0\baitap_QuanLyThongTinNhanVien.AssemblyInfo.cs
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi10\baitap_QuanLyThongTinNhanVien\obj\Debug\net9.0\baitap_QuanLyThongTinNhanVien.csproj.CoreCompileInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi10\baitap_QuanLyThongTinNhanVien\obj\Debug\net9.0\baitap_QuanLyThongTinNhanVien.sourcelink.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi10\baitap_QuanLyThongTinNhanVien\bin\Debug\net9.0\baitap_QuanLyThongTinNhanVien.exe
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi10\baitap_QuanLyThongTinNhanVien\bin\Debug\net9.0\baitap_QuanLyThongTinNhanVien.deps.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi10\baitap_QuanLyThongTinNhanVien\bin\Debug\net9.0\baitap_QuanLyThongTinNhanVien.runtimeconfig.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi10\baitap_QuanLyThongTinNhanVien\bin\Debug\net9.0\baitap_QuanLyThongTinNhanVien.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi10\baitap_QuanLyThongTinNhanVien\bin\Debug\net9.0\baitap_QuanLyThongTinNhanVien.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi10\baitap_QuanLyThongTinNhanVien\obj\Debug\net9.0\baitap_QuanLyThongTinNhanVien.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi10\baitap_QuanLyThongTinNhanVien\obj\Debug\net9.0\refint\baitap_QuanLyThongTinNhanVien.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi10\baitap_QuanLyThongTinNhanVien\obj\Debug\net9.0\baitap_QuanLyThongTinNhanVien.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi10\baitap_QuanLyThongTinNhanVien\obj\Debug\net9.0\baitap_QuanLyThongTinNhanVien.genruntimeconfig.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi10\baitap_QuanLyThongTinNhanVien\obj\Debug\net9.0\ref\baitap_QuanLyThongTinNhanVien.dll

@@ -1,0 +1,15 @@
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi10\ontap_OOP\bin\Debug\net9.0\onTap_OOP.exe
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi10\ontap_OOP\bin\Debug\net9.0\onTap_OOP.deps.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi10\ontap_OOP\bin\Debug\net9.0\onTap_OOP.runtimeconfig.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi10\ontap_OOP\bin\Debug\net9.0\onTap_OOP.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi10\ontap_OOP\bin\Debug\net9.0\onTap_OOP.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi10\ontap_OOP\obj\Debug\net9.0\onTap_OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi10\ontap_OOP\obj\Debug\net9.0\onTap_OOP.AssemblyInfoInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi10\ontap_OOP\obj\Debug\net9.0\onTap_OOP.AssemblyInfo.cs
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi10\ontap_OOP\obj\Debug\net9.0\onTap_OOP.csproj.CoreCompileInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi10\ontap_OOP\obj\Debug\net9.0\onTap_OOP.sourcelink.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi10\ontap_OOP\obj\Debug\net9.0\onTap_OOP.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi10\ontap_OOP\obj\Debug\net9.0\refint\onTap_OOP.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi10\ontap_OOP\obj\Debug\net9.0\onTap_OOP.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi10\ontap_OOP\obj\Debug\net9.0\onTap_OOP.genruntimeconfig.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi10\ontap_OOP\obj\Debug\net9.0\ref\onTap_OOP.dll

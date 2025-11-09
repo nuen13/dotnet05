@@ -1,0 +1,15 @@
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi12\opp_abstract\obj\Debug\net9.0\opp_abstract.GeneratedMSBuildEditorConfig.editorconfig
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi12\opp_abstract\obj\Debug\net9.0\opp_abstract.AssemblyInfoInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi12\opp_abstract\obj\Debug\net9.0\opp_abstract.AssemblyInfo.cs
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi12\opp_abstract\obj\Debug\net9.0\opp_abstract.csproj.CoreCompileInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi12\opp_abstract\obj\Debug\net9.0\opp_abstract.sourcelink.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi12\opp_abstract\bin\Debug\net9.0\opp_abstract.exe
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi12\opp_abstract\bin\Debug\net9.0\opp_abstract.deps.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi12\opp_abstract\bin\Debug\net9.0\opp_abstract.runtimeconfig.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi12\opp_abstract\bin\Debug\net9.0\opp_abstract.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi12\opp_abstract\bin\Debug\net9.0\opp_abstract.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi12\opp_abstract\obj\Debug\net9.0\opp_abstract.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi12\opp_abstract\obj\Debug\net9.0\refint\opp_abstract.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi12\opp_abstract\obj\Debug\net9.0\opp_abstract.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi12\opp_abstract\obj\Debug\net9.0\opp_abstract.genruntimeconfig.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi12\opp_abstract\obj\Debug\net9.0\ref\opp_abstract.dll
