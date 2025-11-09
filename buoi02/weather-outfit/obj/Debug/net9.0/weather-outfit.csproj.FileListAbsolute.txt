@@ -1,0 +1,14 @@
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\weather-outfit\bin\Debug\net9.0\weather-outfit.exe
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\weather-outfit\bin\Debug\net9.0\weather-outfit.deps.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\weather-outfit\bin\Debug\net9.0\weather-outfit.runtimeconfig.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\weather-outfit\bin\Debug\net9.0\weather-outfit.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\weather-outfit\bin\Debug\net9.0\weather-outfit.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\weather-outfit\obj\Debug\net9.0\weather-outfit.GeneratedMSBuildEditorConfig.editorconfig
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\weather-outfit\obj\Debug\net9.0\weather-outfit.AssemblyInfoInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\weather-outfit\obj\Debug\net9.0\weather-outfit.AssemblyInfo.cs
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\weather-outfit\obj\Debug\net9.0\weather-outfit.csproj.CoreCompileInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\weather-outfit\obj\Debug\net9.0\weather-outfit.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\weather-outfit\obj\Debug\net9.0\refint\weather-outfit.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\weather-outfit\obj\Debug\net9.0\weather-outfit.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\weather-outfit\obj\Debug\net9.0\weather-outfit.genruntimeconfig.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\weather-outfit\obj\Debug\net9.0\ref\weather-outfit.dll

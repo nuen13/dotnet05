@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "so-nguyen-to/1.0.0": {
+        "runtime": {
+          "so-nguyen-to.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "so-nguyen-to/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

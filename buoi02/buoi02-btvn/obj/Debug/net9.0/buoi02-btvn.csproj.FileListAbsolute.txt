@@ -1,0 +1,14 @@
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\buoi02-btvn\bin\Debug\net9.0\buoi02-btvn.exe
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\buoi02-btvn\bin\Debug\net9.0\buoi02-btvn.deps.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\buoi02-btvn\bin\Debug\net9.0\buoi02-btvn.runtimeconfig.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\buoi02-btvn\bin\Debug\net9.0\buoi02-btvn.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\buoi02-btvn\bin\Debug\net9.0\buoi02-btvn.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\buoi02-btvn\obj\Debug\net9.0\buoi02-btvn.GeneratedMSBuildEditorConfig.editorconfig
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\buoi02-btvn\obj\Debug\net9.0\buoi02-btvn.AssemblyInfoInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\buoi02-btvn\obj\Debug\net9.0\buoi02-btvn.AssemblyInfo.cs
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\buoi02-btvn\obj\Debug\net9.0\buoi02-btvn.csproj.CoreCompileInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\buoi02-btvn\obj\Debug\net9.0\buoi02-btvn.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\buoi02-btvn\obj\Debug\net9.0\refint\buoi02-btvn.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\buoi02-btvn\obj\Debug\net9.0\buoi02-btvn.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\buoi02-btvn\obj\Debug\net9.0\buoi02-btvn.genruntimeconfig.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\buoi02-btvn\obj\Debug\net9.0\ref\buoi02-btvn.dll

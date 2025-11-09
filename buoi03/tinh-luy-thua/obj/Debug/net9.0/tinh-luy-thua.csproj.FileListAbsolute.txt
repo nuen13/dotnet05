@@ -1,0 +1,14 @@
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\tinh-luy-thua\bin\Debug\net9.0\tinh-luy-thua.exe
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\tinh-luy-thua\bin\Debug\net9.0\tinh-luy-thua.deps.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\tinh-luy-thua\bin\Debug\net9.0\tinh-luy-thua.runtimeconfig.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\tinh-luy-thua\bin\Debug\net9.0\tinh-luy-thua.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\tinh-luy-thua\bin\Debug\net9.0\tinh-luy-thua.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\tinh-luy-thua\obj\Debug\net9.0\tinh-luy-thua.GeneratedMSBuildEditorConfig.editorconfig
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\tinh-luy-thua\obj\Debug\net9.0\tinh-luy-thua.AssemblyInfoInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\tinh-luy-thua\obj\Debug\net9.0\tinh-luy-thua.AssemblyInfo.cs
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\tinh-luy-thua\obj\Debug\net9.0\tinh-luy-thua.csproj.CoreCompileInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\tinh-luy-thua\obj\Debug\net9.0\tinh-luy-thua.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\tinh-luy-thua\obj\Debug\net9.0\refint\tinh-luy-thua.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\tinh-luy-thua\obj\Debug\net9.0\tinh-luy-thua.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\tinh-luy-thua\obj\Debug\net9.0\tinh-luy-thua.genruntimeconfig.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\tinh-luy-thua\obj\Debug\net9.0\ref\tinh-luy-thua.dll

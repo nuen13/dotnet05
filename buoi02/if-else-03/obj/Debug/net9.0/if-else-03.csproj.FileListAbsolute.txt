@@ -1,0 +1,14 @@
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\if-else-03\bin\Debug\net9.0\if-else-03.exe
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\if-else-03\bin\Debug\net9.0\if-else-03.deps.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\if-else-03\bin\Debug\net9.0\if-else-03.runtimeconfig.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\if-else-03\bin\Debug\net9.0\if-else-03.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\if-else-03\bin\Debug\net9.0\if-else-03.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\if-else-03\obj\Debug\net9.0\if-else-03.GeneratedMSBuildEditorConfig.editorconfig
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\if-else-03\obj\Debug\net9.0\if-else-03.AssemblyInfoInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\if-else-03\obj\Debug\net9.0\if-else-03.AssemblyInfo.cs
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\if-else-03\obj\Debug\net9.0\if-else-03.csproj.CoreCompileInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\if-else-03\obj\Debug\net9.0\if-else-03.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\if-else-03\obj\Debug\net9.0\refint\if-else-03.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\if-else-03\obj\Debug\net9.0\if-else-03.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\if-else-03\obj\Debug\net9.0\if-else-03.genruntimeconfig.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\if-else-03\obj\Debug\net9.0\ref\if-else-03.dll

@@ -1,0 +1,14 @@
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\demo_input-output\bin\Debug\net9.0\demo_input-output.exe
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\demo_input-output\bin\Debug\net9.0\demo_input-output.deps.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\demo_input-output\bin\Debug\net9.0\demo_input-output.runtimeconfig.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\demo_input-output\bin\Debug\net9.0\demo_input-output.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\demo_input-output\bin\Debug\net9.0\demo_input-output.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\demo_input-output\obj\Debug\net9.0\demo_input-output.GeneratedMSBuildEditorConfig.editorconfig
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\demo_input-output\obj\Debug\net9.0\demo_input-output.AssemblyInfoInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\demo_input-output\obj\Debug\net9.0\demo_input-output.AssemblyInfo.cs
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\demo_input-output\obj\Debug\net9.0\demo_input-output.csproj.CoreCompileInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\demo_input-output\obj\Debug\net9.0\demo_input-output.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\demo_input-output\obj\Debug\net9.0\refint\demo_input-output.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\demo_input-output\obj\Debug\net9.0\demo_input-output.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\demo_input-output\obj\Debug\net9.0\demo_input-output.genruntimeconfig.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\demo_input-output\obj\Debug\net9.0\ref\demo_input-output.dll

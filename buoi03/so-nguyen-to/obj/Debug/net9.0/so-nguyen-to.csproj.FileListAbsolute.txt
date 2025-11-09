@@ -1,0 +1,14 @@
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\so-nguyen-to\obj\Debug\net9.0\so-nguyen-to.GeneratedMSBuildEditorConfig.editorconfig
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\so-nguyen-to\obj\Debug\net9.0\so-nguyen-to.AssemblyInfoInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\so-nguyen-to\obj\Debug\net9.0\so-nguyen-to.AssemblyInfo.cs
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\so-nguyen-to\obj\Debug\net9.0\so-nguyen-to.csproj.CoreCompileInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\so-nguyen-to\bin\Debug\net9.0\so-nguyen-to.exe
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\so-nguyen-to\bin\Debug\net9.0\so-nguyen-to.deps.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\so-nguyen-to\bin\Debug\net9.0\so-nguyen-to.runtimeconfig.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\so-nguyen-to\bin\Debug\net9.0\so-nguyen-to.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\so-nguyen-to\bin\Debug\net9.0\so-nguyen-to.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\so-nguyen-to\obj\Debug\net9.0\so-nguyen-to.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\so-nguyen-to\obj\Debug\net9.0\refint\so-nguyen-to.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\so-nguyen-to\obj\Debug\net9.0\so-nguyen-to.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\so-nguyen-to\obj\Debug\net9.0\so-nguyen-to.genruntimeconfig.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\so-nguyen-to\obj\Debug\net9.0\ref\so-nguyen-to.dll

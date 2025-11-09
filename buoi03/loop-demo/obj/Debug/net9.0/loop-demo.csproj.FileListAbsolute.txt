@@ -1,0 +1,14 @@
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\loop-demo\bin\Debug\net9.0\loop-demo.exe
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\loop-demo\bin\Debug\net9.0\loop-demo.deps.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\loop-demo\bin\Debug\net9.0\loop-demo.runtimeconfig.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\loop-demo\bin\Debug\net9.0\loop-demo.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\loop-demo\bin\Debug\net9.0\loop-demo.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\loop-demo\obj\Debug\net9.0\loop-demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\loop-demo\obj\Debug\net9.0\loop-demo.AssemblyInfoInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\loop-demo\obj\Debug\net9.0\loop-demo.AssemblyInfo.cs
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\loop-demo\obj\Debug\net9.0\loop-demo.csproj.CoreCompileInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\loop-demo\obj\Debug\net9.0\loop-demo.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\loop-demo\obj\Debug\net9.0\refint\loop-demo.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\loop-demo\obj\Debug\net9.0\loop-demo.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\loop-demo\obj\Debug\net9.0\loop-demo.genruntimeconfig.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\loop-demo\obj\Debug\net9.0\ref\loop-demo.dll

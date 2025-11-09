@@ -1,0 +1,28 @@
+D:\D-Main\course_CODE\CYBERSOFT\C# and ASP.NET\Cybersoft_C-andDOTNET\buoi01_firstproj\bin\Debug\net9.0\buoi01_firstproj.exe
+D:\D-Main\course_CODE\CYBERSOFT\C# and ASP.NET\Cybersoft_C-andDOTNET\buoi01_firstproj\bin\Debug\net9.0\buoi01_firstproj.deps.json
+D:\D-Main\course_CODE\CYBERSOFT\C# and ASP.NET\Cybersoft_C-andDOTNET\buoi01_firstproj\bin\Debug\net9.0\buoi01_firstproj.runtimeconfig.json
+D:\D-Main\course_CODE\CYBERSOFT\C# and ASP.NET\Cybersoft_C-andDOTNET\buoi01_firstproj\bin\Debug\net9.0\buoi01_firstproj.dll
+D:\D-Main\course_CODE\CYBERSOFT\C# and ASP.NET\Cybersoft_C-andDOTNET\buoi01_firstproj\bin\Debug\net9.0\buoi01_firstproj.pdb
+D:\D-Main\course_CODE\CYBERSOFT\C# and ASP.NET\Cybersoft_C-andDOTNET\buoi01_firstproj\obj\Debug\net9.0\buoi01_firstproj.GeneratedMSBuildEditorConfig.editorconfig
+D:\D-Main\course_CODE\CYBERSOFT\C# and ASP.NET\Cybersoft_C-andDOTNET\buoi01_firstproj\obj\Debug\net9.0\buoi01_firstproj.AssemblyInfoInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\C# and ASP.NET\Cybersoft_C-andDOTNET\buoi01_firstproj\obj\Debug\net9.0\buoi01_firstproj.AssemblyInfo.cs
+D:\D-Main\course_CODE\CYBERSOFT\C# and ASP.NET\Cybersoft_C-andDOTNET\buoi01_firstproj\obj\Debug\net9.0\buoi01_firstproj.csproj.CoreCompileInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\C# and ASP.NET\Cybersoft_C-andDOTNET\buoi01_firstproj\obj\Debug\net9.0\buoi01_firstproj.dll
+D:\D-Main\course_CODE\CYBERSOFT\C# and ASP.NET\Cybersoft_C-andDOTNET\buoi01_firstproj\obj\Debug\net9.0\refint\buoi01_firstproj.dll
+D:\D-Main\course_CODE\CYBERSOFT\C# and ASP.NET\Cybersoft_C-andDOTNET\buoi01_firstproj\obj\Debug\net9.0\buoi01_firstproj.pdb
+D:\D-Main\course_CODE\CYBERSOFT\C# and ASP.NET\Cybersoft_C-andDOTNET\buoi01_firstproj\obj\Debug\net9.0\buoi01_firstproj.genruntimeconfig.cache
+D:\D-Main\course_CODE\CYBERSOFT\C# and ASP.NET\Cybersoft_C-andDOTNET\buoi01_firstproj\obj\Debug\net9.0\ref\buoi01_firstproj.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\buoi01-btvn\obj\Debug\net9.0\buoi01_firstproj.GeneratedMSBuildEditorConfig.editorconfig
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\buoi01-btvn\obj\Debug\net9.0\buoi01_firstproj.AssemblyInfoInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\buoi01-btvn\obj\Debug\net9.0\buoi01_firstproj.AssemblyInfo.cs
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\buoi01-btvn\obj\Debug\net9.0\buoi01_firstproj.csproj.CoreCompileInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\buoi01-btvn\obj\Debug\net9.0\buoi01_firstproj.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\buoi01-btvn\obj\Debug\net9.0\refint\buoi01_firstproj.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\buoi01-btvn\obj\Debug\net9.0\buoi01_firstproj.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\buoi01-btvn\bin\Debug\net9.0\buoi01_firstproj.exe
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\buoi01-btvn\bin\Debug\net9.0\buoi01_firstproj.deps.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\buoi01-btvn\bin\Debug\net9.0\buoi01_firstproj.runtimeconfig.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\buoi01-btvn\bin\Debug\net9.0\buoi01_firstproj.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\buoi01-btvn\bin\Debug\net9.0\buoi01_firstproj.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\buoi01-btvn\obj\Debug\net9.0\buoi01_firstproj.genruntimeconfig.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\buoi01-btvn\obj\Debug\net9.0\ref\buoi01_firstproj.dll

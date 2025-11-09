@@ -1,0 +1,14 @@
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\chuyenDoiNhietDo\obj\Debug\net9.0\chuyenDoiNhietDo.GeneratedMSBuildEditorConfig.editorconfig
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\chuyenDoiNhietDo\obj\Debug\net9.0\chuyenDoiNhietDo.AssemblyInfoInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\chuyenDoiNhietDo\obj\Debug\net9.0\chuyenDoiNhietDo.AssemblyInfo.cs
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\chuyenDoiNhietDo\obj\Debug\net9.0\chuyenDoiNhietDo.csproj.CoreCompileInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\chuyenDoiNhietDo\bin\Debug\net9.0\chuyenDoiNhietDo.exe
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\chuyenDoiNhietDo\bin\Debug\net9.0\chuyenDoiNhietDo.deps.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\chuyenDoiNhietDo\bin\Debug\net9.0\chuyenDoiNhietDo.runtimeconfig.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\chuyenDoiNhietDo\bin\Debug\net9.0\chuyenDoiNhietDo.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\chuyenDoiNhietDo\bin\Debug\net9.0\chuyenDoiNhietDo.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\chuyenDoiNhietDo\obj\Debug\net9.0\chuyenDoiNhietDo.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\chuyenDoiNhietDo\obj\Debug\net9.0\refint\chuyenDoiNhietDo.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\chuyenDoiNhietDo\obj\Debug\net9.0\chuyenDoiNhietDo.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\chuyenDoiNhietDo\obj\Debug\net9.0\chuyenDoiNhietDo.genruntimeconfig.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\chuyenDoiNhietDo\obj\Debug\net9.0\ref\chuyenDoiNhietDo.dll

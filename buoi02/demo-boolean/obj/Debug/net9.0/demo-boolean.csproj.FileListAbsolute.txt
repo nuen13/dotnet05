@@ -1,0 +1,14 @@
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\demo-boolean\bin\Debug\net9.0\demo-boolean.exe
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\demo-boolean\bin\Debug\net9.0\demo-boolean.deps.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\demo-boolean\bin\Debug\net9.0\demo-boolean.runtimeconfig.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\demo-boolean\bin\Debug\net9.0\demo-boolean.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\demo-boolean\bin\Debug\net9.0\demo-boolean.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\demo-boolean\obj\Debug\net9.0\demo-boolean.GeneratedMSBuildEditorConfig.editorconfig
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\demo-boolean\obj\Debug\net9.0\demo-boolean.AssemblyInfoInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\demo-boolean\obj\Debug\net9.0\demo-boolean.AssemblyInfo.cs
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\demo-boolean\obj\Debug\net9.0\demo-boolean.csproj.CoreCompileInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\demo-boolean\obj\Debug\net9.0\demo-boolean.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\demo-boolean\obj\Debug\net9.0\refint\demo-boolean.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\demo-boolean\obj\Debug\net9.0\demo-boolean.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\demo-boolean\obj\Debug\net9.0\demo-boolean.genruntimeconfig.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi02\demo-boolean\obj\Debug\net9.0\ref\demo-boolean.dll

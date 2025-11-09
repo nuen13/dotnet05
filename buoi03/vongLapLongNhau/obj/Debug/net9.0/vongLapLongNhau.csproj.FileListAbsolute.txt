@@ -1,0 +1,14 @@
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\vongLapLongNhau\bin\Debug\net9.0\vongLapLongNhau.exe
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\vongLapLongNhau\bin\Debug\net9.0\vongLapLongNhau.deps.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\vongLapLongNhau\bin\Debug\net9.0\vongLapLongNhau.runtimeconfig.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\vongLapLongNhau\bin\Debug\net9.0\vongLapLongNhau.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\vongLapLongNhau\bin\Debug\net9.0\vongLapLongNhau.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\vongLapLongNhau\obj\Debug\net9.0\vongLapLongNhau.GeneratedMSBuildEditorConfig.editorconfig
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\vongLapLongNhau\obj\Debug\net9.0\vongLapLongNhau.AssemblyInfoInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\vongLapLongNhau\obj\Debug\net9.0\vongLapLongNhau.AssemblyInfo.cs
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\vongLapLongNhau\obj\Debug\net9.0\vongLapLongNhau.csproj.CoreCompileInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\vongLapLongNhau\obj\Debug\net9.0\vongLapLongNhau.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\vongLapLongNhau\obj\Debug\net9.0\refint\vongLapLongNhau.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\vongLapLongNhau\obj\Debug\net9.0\vongLapLongNhau.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\vongLapLongNhau\obj\Debug\net9.0\vongLapLongNhau.genruntimeconfig.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi03\vongLapLongNhau\obj\Debug\net9.0\ref\vongLapLongNhau.dll

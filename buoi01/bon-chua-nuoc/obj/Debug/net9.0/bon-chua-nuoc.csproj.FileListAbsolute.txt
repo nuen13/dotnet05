@@ -1,0 +1,14 @@
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\bon-chua-nuoc\bin\Debug\net9.0\bon-chua-nuoc.exe
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\bon-chua-nuoc\bin\Debug\net9.0\bon-chua-nuoc.deps.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\bon-chua-nuoc\bin\Debug\net9.0\bon-chua-nuoc.runtimeconfig.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\bon-chua-nuoc\bin\Debug\net9.0\bon-chua-nuoc.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\bon-chua-nuoc\bin\Debug\net9.0\bon-chua-nuoc.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\bon-chua-nuoc\obj\Debug\net9.0\bon-chua-nuoc.GeneratedMSBuildEditorConfig.editorconfig
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\bon-chua-nuoc\obj\Debug\net9.0\bon-chua-nuoc.AssemblyInfoInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\bon-chua-nuoc\obj\Debug\net9.0\bon-chua-nuoc.AssemblyInfo.cs
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\bon-chua-nuoc\obj\Debug\net9.0\bon-chua-nuoc.csproj.CoreCompileInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\bon-chua-nuoc\obj\Debug\net9.0\bon-chua-nuoc.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\bon-chua-nuoc\obj\Debug\net9.0\refint\bon-chua-nuoc.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\bon-chua-nuoc\obj\Debug\net9.0\bon-chua-nuoc.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\bon-chua-nuoc\obj\Debug\net9.0\bon-chua-nuoc.genruntimeconfig.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi01\bon-chua-nuoc\obj\Debug\net9.0\ref\bon-chua-nuoc.dll
