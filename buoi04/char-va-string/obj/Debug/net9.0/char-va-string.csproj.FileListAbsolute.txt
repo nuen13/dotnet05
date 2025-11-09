@@ -1,0 +1,14 @@
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\char-va-string\obj\Debug\net9.0\char-va-string.GeneratedMSBuildEditorConfig.editorconfig
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\char-va-string\obj\Debug\net9.0\char-va-string.AssemblyInfoInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\char-va-string\obj\Debug\net9.0\char-va-string.AssemblyInfo.cs
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\char-va-string\obj\Debug\net9.0\char-va-string.csproj.CoreCompileInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\char-va-string\bin\Debug\net9.0\char-va-string.exe
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\char-va-string\bin\Debug\net9.0\char-va-string.deps.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\char-va-string\bin\Debug\net9.0\char-va-string.runtimeconfig.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\char-va-string\bin\Debug\net9.0\char-va-string.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\char-va-string\bin\Debug\net9.0\char-va-string.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\char-va-string\obj\Debug\net9.0\char-va-string.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\char-va-string\obj\Debug\net9.0\refint\char-va-string.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\char-va-string\obj\Debug\net9.0\char-va-string.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\char-va-string\obj\Debug\net9.0\char-va-string.genruntimeconfig.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\char-va-string\obj\Debug\net9.0\ref\char-va-string.dll

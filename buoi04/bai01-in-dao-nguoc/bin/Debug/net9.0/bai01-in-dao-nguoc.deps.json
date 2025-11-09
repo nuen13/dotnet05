@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "bai01-in-dao-nguoc/1.0.0": {
+        "runtime": {
+          "bai01-in-dao-nguoc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bai01-in-dao-nguoc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

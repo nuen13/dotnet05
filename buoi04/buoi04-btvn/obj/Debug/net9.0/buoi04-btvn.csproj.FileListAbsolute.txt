@@ -1,0 +1,14 @@
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\buoi04-btvn\obj\Debug\net9.0\buoi04-btvn.GeneratedMSBuildEditorConfig.editorconfig
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\buoi04-btvn\obj\Debug\net9.0\buoi04-btvn.AssemblyInfoInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\buoi04-btvn\obj\Debug\net9.0\buoi04-btvn.AssemblyInfo.cs
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\buoi04-btvn\obj\Debug\net9.0\buoi04-btvn.csproj.CoreCompileInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\buoi04-btvn\bin\Debug\net9.0\buoi04-btvn.exe
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\buoi04-btvn\bin\Debug\net9.0\buoi04-btvn.deps.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\buoi04-btvn\bin\Debug\net9.0\buoi04-btvn.runtimeconfig.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\buoi04-btvn\bin\Debug\net9.0\buoi04-btvn.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\buoi04-btvn\bin\Debug\net9.0\buoi04-btvn.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\buoi04-btvn\obj\Debug\net9.0\buoi04-btvn.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\buoi04-btvn\obj\Debug\net9.0\refint\buoi04-btvn.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\buoi04-btvn\obj\Debug\net9.0\buoi04-btvn.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\buoi04-btvn\obj\Debug\net9.0\buoi04-btvn.genruntimeconfig.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\buoi04-btvn\obj\Debug\net9.0\ref\buoi04-btvn.dll

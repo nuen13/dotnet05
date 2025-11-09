@@ -1,0 +1,15 @@
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\hashset-pracice\bin\Debug\net9.0\hashset-pracice.exe
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\hashset-pracice\bin\Debug\net9.0\hashset-pracice.deps.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\hashset-pracice\bin\Debug\net9.0\hashset-pracice.runtimeconfig.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\hashset-pracice\bin\Debug\net9.0\hashset-pracice.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\hashset-pracice\obj\Debug\net9.0\hashset-pracice.GeneratedMSBuildEditorConfig.editorconfig
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\hashset-pracice\obj\Debug\net9.0\hashset-pracice.AssemblyInfoInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\hashset-pracice\obj\Debug\net9.0\hashset-pracice.AssemblyInfo.cs
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\hashset-pracice\obj\Debug\net9.0\hashset-pracice.csproj.CoreCompileInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\hashset-pracice\obj\Debug\net9.0\hashset-pracice.sourcelink.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\hashset-pracice\obj\Debug\net9.0\hashset-pracice.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\hashset-pracice\obj\Debug\net9.0\refint\hashset-pracice.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\hashset-pracice\obj\Debug\net9.0\hashset-pracice.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\hashset-pracice\obj\Debug\net9.0\hashset-pracice.genruntimeconfig.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\hashset-pracice\obj\Debug\net9.0\ref\hashset-pracice.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\hashset-pracice\bin\Debug\net9.0\hashset-pracice.pdb

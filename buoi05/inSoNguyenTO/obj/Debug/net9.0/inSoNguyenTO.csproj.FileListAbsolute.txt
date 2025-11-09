@@ -1,0 +1,15 @@
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\inSoNguyenTO\obj\Debug\net9.0\inSoNguyenTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\inSoNguyenTO\obj\Debug\net9.0\inSoNguyenTO.AssemblyInfoInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\inSoNguyenTO\obj\Debug\net9.0\inSoNguyenTO.AssemblyInfo.cs
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\inSoNguyenTO\obj\Debug\net9.0\inSoNguyenTO.csproj.CoreCompileInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\inSoNguyenTO\obj\Debug\net9.0\inSoNguyenTO.sourcelink.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\inSoNguyenTO\bin\Debug\net9.0\inSoNguyenTO.exe
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\inSoNguyenTO\bin\Debug\net9.0\inSoNguyenTO.deps.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\inSoNguyenTO\bin\Debug\net9.0\inSoNguyenTO.runtimeconfig.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\inSoNguyenTO\bin\Debug\net9.0\inSoNguyenTO.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\inSoNguyenTO\bin\Debug\net9.0\inSoNguyenTO.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\inSoNguyenTO\obj\Debug\net9.0\inSoNguyenTO.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\inSoNguyenTO\obj\Debug\net9.0\refint\inSoNguyenTO.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\inSoNguyenTO\obj\Debug\net9.0\inSoNguyenTO.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\inSoNguyenTO\obj\Debug\net9.0\inSoNguyenTO.genruntimeconfig.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\inSoNguyenTO\obj\Debug\net9.0\ref\inSoNguyenTO.dll

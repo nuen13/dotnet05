@@ -1,0 +1,15 @@
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\maTranSao\obj\Debug\net9.0\maTranSao.GeneratedMSBuildEditorConfig.editorconfig
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\maTranSao\obj\Debug\net9.0\maTranSao.AssemblyInfoInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\maTranSao\obj\Debug\net9.0\maTranSao.AssemblyInfo.cs
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\maTranSao\obj\Debug\net9.0\maTranSao.csproj.CoreCompileInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\maTranSao\obj\Debug\net9.0\maTranSao.sourcelink.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\maTranSao\bin\Debug\net9.0\maTranSao.exe
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\maTranSao\bin\Debug\net9.0\maTranSao.deps.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\maTranSao\bin\Debug\net9.0\maTranSao.runtimeconfig.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\maTranSao\bin\Debug\net9.0\maTranSao.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\maTranSao\bin\Debug\net9.0\maTranSao.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\maTranSao\obj\Debug\net9.0\maTranSao.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\maTranSao\obj\Debug\net9.0\refint\maTranSao.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\maTranSao\obj\Debug\net9.0\maTranSao.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\maTranSao\obj\Debug\net9.0\maTranSao.genruntimeconfig.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\maTranSao\obj\Debug\net9.0\ref\maTranSao.dll

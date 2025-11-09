@@ -1,0 +1,15 @@
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\buoi05-btvn\lstNumber\bin\Debug\net9.0\lstNumber.exe
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\buoi05-btvn\lstNumber\bin\Debug\net9.0\lstNumber.deps.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\buoi05-btvn\lstNumber\bin\Debug\net9.0\lstNumber.runtimeconfig.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\buoi05-btvn\lstNumber\bin\Debug\net9.0\lstNumber.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\buoi05-btvn\lstNumber\bin\Debug\net9.0\lstNumber.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\buoi05-btvn\lstNumber\obj\Debug\net9.0\lstNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\buoi05-btvn\lstNumber\obj\Debug\net9.0\lstNumber.AssemblyInfoInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\buoi05-btvn\lstNumber\obj\Debug\net9.0\lstNumber.AssemblyInfo.cs
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\buoi05-btvn\lstNumber\obj\Debug\net9.0\lstNumber.csproj.CoreCompileInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\buoi05-btvn\lstNumber\obj\Debug\net9.0\lstNumber.sourcelink.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\buoi05-btvn\lstNumber\obj\Debug\net9.0\lstNumber.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\buoi05-btvn\lstNumber\obj\Debug\net9.0\refint\lstNumber.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\buoi05-btvn\lstNumber\obj\Debug\net9.0\lstNumber.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\buoi05-btvn\lstNumber\obj\Debug\net9.0\lstNumber.genruntimeconfig.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi05\buoi05-btvn\lstNumber\obj\Debug\net9.0\ref\lstNumber.dll

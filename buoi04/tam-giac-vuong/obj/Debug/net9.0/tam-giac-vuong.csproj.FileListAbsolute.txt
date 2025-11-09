@@ -1,0 +1,14 @@
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\tam-giac-vuong\bin\Debug\net9.0\tam-giac-vuong.exe
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\tam-giac-vuong\bin\Debug\net9.0\tam-giac-vuong.deps.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\tam-giac-vuong\bin\Debug\net9.0\tam-giac-vuong.runtimeconfig.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\tam-giac-vuong\bin\Debug\net9.0\tam-giac-vuong.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\tam-giac-vuong\bin\Debug\net9.0\tam-giac-vuong.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\tam-giac-vuong\obj\Debug\net9.0\tam-giac-vuong.GeneratedMSBuildEditorConfig.editorconfig
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\tam-giac-vuong\obj\Debug\net9.0\tam-giac-vuong.AssemblyInfoInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\tam-giac-vuong\obj\Debug\net9.0\tam-giac-vuong.AssemblyInfo.cs
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\tam-giac-vuong\obj\Debug\net9.0\tam-giac-vuong.csproj.CoreCompileInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\tam-giac-vuong\obj\Debug\net9.0\tam-giac-vuong.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\tam-giac-vuong\obj\Debug\net9.0\refint\tam-giac-vuong.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\tam-giac-vuong\obj\Debug\net9.0\tam-giac-vuong.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\tam-giac-vuong\obj\Debug\net9.0\tam-giac-vuong.genruntimeconfig.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\tam-giac-vuong\obj\Debug\net9.0\ref\tam-giac-vuong.dll

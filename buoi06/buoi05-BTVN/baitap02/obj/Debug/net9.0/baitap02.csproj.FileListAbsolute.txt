@@ -1,0 +1,15 @@
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\buoi05-BTVN\baitap02\bin\Debug\net9.0\baitap02.exe
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\buoi05-BTVN\baitap02\bin\Debug\net9.0\baitap02.deps.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\buoi05-BTVN\baitap02\bin\Debug\net9.0\baitap02.runtimeconfig.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\buoi05-BTVN\baitap02\bin\Debug\net9.0\baitap02.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\buoi05-BTVN\baitap02\bin\Debug\net9.0\baitap02.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\buoi05-BTVN\baitap02\obj\Debug\net9.0\baitap02.GeneratedMSBuildEditorConfig.editorconfig
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\buoi05-BTVN\baitap02\obj\Debug\net9.0\baitap02.AssemblyInfoInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\buoi05-BTVN\baitap02\obj\Debug\net9.0\baitap02.AssemblyInfo.cs
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\buoi05-BTVN\baitap02\obj\Debug\net9.0\baitap02.csproj.CoreCompileInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\buoi05-BTVN\baitap02\obj\Debug\net9.0\baitap02.sourcelink.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\buoi05-BTVN\baitap02\obj\Debug\net9.0\baitap02.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\buoi05-BTVN\baitap02\obj\Debug\net9.0\refint\baitap02.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\buoi05-BTVN\baitap02\obj\Debug\net9.0\baitap02.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\buoi05-BTVN\baitap02\obj\Debug\net9.0\baitap02.genruntimeconfig.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\buoi05-BTVN\baitap02\obj\Debug\net9.0\ref\baitap02.dll

@@ -1,0 +1,14 @@
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\dem-so-luong\obj\Debug\net9.0\dem-so-luong.GeneratedMSBuildEditorConfig.editorconfig
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\dem-so-luong\obj\Debug\net9.0\dem-so-luong.AssemblyInfoInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\dem-so-luong\obj\Debug\net9.0\dem-so-luong.AssemblyInfo.cs
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\dem-so-luong\obj\Debug\net9.0\dem-so-luong.csproj.CoreCompileInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\dem-so-luong\bin\Debug\net9.0\dem-so-luong.exe
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\dem-so-luong\bin\Debug\net9.0\dem-so-luong.deps.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\dem-so-luong\bin\Debug\net9.0\dem-so-luong.runtimeconfig.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\dem-so-luong\bin\Debug\net9.0\dem-so-luong.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\dem-so-luong\bin\Debug\net9.0\dem-so-luong.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\dem-so-luong\obj\Debug\net9.0\dem-so-luong.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\dem-so-luong\obj\Debug\net9.0\refint\dem-so-luong.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\dem-so-luong\obj\Debug\net9.0\dem-so-luong.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\dem-so-luong\obj\Debug\net9.0\dem-so-luong.genruntimeconfig.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\dem-so-luong\obj\Debug\net9.0\ref\dem-so-luong.dll

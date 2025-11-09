@@ -1,0 +1,15 @@
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\dictionary-practice\bin\Debug\net9.0\dictionary-practice.exe
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\dictionary-practice\bin\Debug\net9.0\dictionary-practice.deps.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\dictionary-practice\bin\Debug\net9.0\dictionary-practice.runtimeconfig.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\dictionary-practice\bin\Debug\net9.0\dictionary-practice.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\dictionary-practice\bin\Debug\net9.0\dictionary-practice.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\dictionary-practice\obj\Debug\net9.0\dictionary-practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\dictionary-practice\obj\Debug\net9.0\dictionary-practice.AssemblyInfoInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\dictionary-practice\obj\Debug\net9.0\dictionary-practice.AssemblyInfo.cs
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\dictionary-practice\obj\Debug\net9.0\dictionary-practice.csproj.CoreCompileInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\dictionary-practice\obj\Debug\net9.0\dictionary-practice.sourcelink.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\dictionary-practice\obj\Debug\net9.0\dictionary-practice.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\dictionary-practice\obj\Debug\net9.0\refint\dictionary-practice.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\dictionary-practice\obj\Debug\net9.0\dictionary-practice.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\dictionary-practice\obj\Debug\net9.0\dictionary-practice.genruntimeconfig.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\dictionary-practice\obj\Debug\net9.0\ref\dictionary-practice.dll

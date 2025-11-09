@@ -1,0 +1,15 @@
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\ham-thuc-hanh\bin\Debug\net9.0\ham-thuc-hanh.exe
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\ham-thuc-hanh\bin\Debug\net9.0\ham-thuc-hanh.deps.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\ham-thuc-hanh\bin\Debug\net9.0\ham-thuc-hanh.runtimeconfig.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\ham-thuc-hanh\bin\Debug\net9.0\ham-thuc-hanh.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\ham-thuc-hanh\bin\Debug\net9.0\ham-thuc-hanh.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\ham-thuc-hanh\obj\Debug\net9.0\ham-thuc-hanh.GeneratedMSBuildEditorConfig.editorconfig
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\ham-thuc-hanh\obj\Debug\net9.0\ham-thuc-hanh.AssemblyInfoInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\ham-thuc-hanh\obj\Debug\net9.0\ham-thuc-hanh.AssemblyInfo.cs
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\ham-thuc-hanh\obj\Debug\net9.0\ham-thuc-hanh.csproj.CoreCompileInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\ham-thuc-hanh\obj\Debug\net9.0\ham-thuc-hanh.sourcelink.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\ham-thuc-hanh\obj\Debug\net9.0\ham-thuc-hanh.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\ham-thuc-hanh\obj\Debug\net9.0\refint\ham-thuc-hanh.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\ham-thuc-hanh\obj\Debug\net9.0\ham-thuc-hanh.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\ham-thuc-hanh\obj\Debug\net9.0\ham-thuc-hanh.genruntimeconfig.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\ham-thuc-hanh\obj\Debug\net9.0\ref\ham-thuc-hanh.dll

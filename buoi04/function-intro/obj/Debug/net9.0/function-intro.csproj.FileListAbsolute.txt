@@ -1,0 +1,14 @@
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\function-intro\bin\Debug\net9.0\function-intro.exe
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\function-intro\bin\Debug\net9.0\function-intro.deps.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\function-intro\bin\Debug\net9.0\function-intro.runtimeconfig.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\function-intro\bin\Debug\net9.0\function-intro.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\function-intro\bin\Debug\net9.0\function-intro.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\function-intro\obj\Debug\net9.0\function-intro.GeneratedMSBuildEditorConfig.editorconfig
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\function-intro\obj\Debug\net9.0\function-intro.AssemblyInfoInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\function-intro\obj\Debug\net9.0\function-intro.AssemblyInfo.cs
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\function-intro\obj\Debug\net9.0\function-intro.csproj.CoreCompileInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\function-intro\obj\Debug\net9.0\function-intro.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\function-intro\obj\Debug\net9.0\refint\function-intro.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\function-intro\obj\Debug\net9.0\function-intro.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\function-intro\obj\Debug\net9.0\function-intro.genruntimeconfig.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\function-intro\obj\Debug\net9.0\ref\function-intro.dll

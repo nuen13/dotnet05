@@ -1,0 +1,14 @@
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\bai01-in-dao-nguoc\obj\Debug\net9.0\bai01-in-dao-nguoc.GeneratedMSBuildEditorConfig.editorconfig
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\bai01-in-dao-nguoc\obj\Debug\net9.0\bai01-in-dao-nguoc.AssemblyInfoInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\bai01-in-dao-nguoc\obj\Debug\net9.0\bai01-in-dao-nguoc.AssemblyInfo.cs
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\bai01-in-dao-nguoc\obj\Debug\net9.0\bai01-in-dao-nguoc.csproj.CoreCompileInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\bai01-in-dao-nguoc\bin\Debug\net9.0\bai01-in-dao-nguoc.exe
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\bai01-in-dao-nguoc\bin\Debug\net9.0\bai01-in-dao-nguoc.deps.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\bai01-in-dao-nguoc\bin\Debug\net9.0\bai01-in-dao-nguoc.runtimeconfig.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\bai01-in-dao-nguoc\bin\Debug\net9.0\bai01-in-dao-nguoc.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\bai01-in-dao-nguoc\bin\Debug\net9.0\bai01-in-dao-nguoc.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\bai01-in-dao-nguoc\obj\Debug\net9.0\bai01-in-dao-nguoc.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\bai01-in-dao-nguoc\obj\Debug\net9.0\refint\bai01-in-dao-nguoc.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\bai01-in-dao-nguoc\obj\Debug\net9.0\bai01-in-dao-nguoc.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\bai01-in-dao-nguoc\obj\Debug\net9.0\bai01-in-dao-nguoc.genruntimeconfig.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi04\bai01-in-dao-nguoc\obj\Debug\net9.0\ref\bai01-in-dao-nguoc.dll

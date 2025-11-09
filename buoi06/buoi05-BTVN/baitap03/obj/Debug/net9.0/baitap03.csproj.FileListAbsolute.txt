@@ -1,0 +1,15 @@
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\buoi05-BTVN\baitap03\obj\Debug\net9.0\baitap03.GeneratedMSBuildEditorConfig.editorconfig
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\buoi05-BTVN\baitap03\obj\Debug\net9.0\baitap03.AssemblyInfoInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\buoi05-BTVN\baitap03\obj\Debug\net9.0\baitap03.AssemblyInfo.cs
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\buoi05-BTVN\baitap03\obj\Debug\net9.0\baitap03.csproj.CoreCompileInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\buoi05-BTVN\baitap03\obj\Debug\net9.0\baitap03.sourcelink.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\buoi05-BTVN\baitap03\bin\Debug\net9.0\baitap03.exe
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\buoi05-BTVN\baitap03\bin\Debug\net9.0\baitap03.deps.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\buoi05-BTVN\baitap03\bin\Debug\net9.0\baitap03.runtimeconfig.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\buoi05-BTVN\baitap03\bin\Debug\net9.0\baitap03.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\buoi05-BTVN\baitap03\bin\Debug\net9.0\baitap03.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\buoi05-BTVN\baitap03\obj\Debug\net9.0\baitap03.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\buoi05-BTVN\baitap03\obj\Debug\net9.0\refint\baitap03.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\buoi05-BTVN\baitap03\obj\Debug\net9.0\baitap03.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\buoi05-BTVN\baitap03\obj\Debug\net9.0\baitap03.genruntimeconfig.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\buoi05-BTVN\baitap03\obj\Debug\net9.0\ref\baitap03.dll

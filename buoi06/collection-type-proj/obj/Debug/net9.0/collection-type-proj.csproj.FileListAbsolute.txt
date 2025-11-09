@@ -1,0 +1,15 @@
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\collection-type-proj\bin\Debug\net9.0\collection-type-proj.exe
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\collection-type-proj\bin\Debug\net9.0\collection-type-proj.deps.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\collection-type-proj\bin\Debug\net9.0\collection-type-proj.runtimeconfig.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\collection-type-proj\bin\Debug\net9.0\collection-type-proj.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\collection-type-proj\bin\Debug\net9.0\collection-type-proj.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\collection-type-proj\obj\Debug\net9.0\collection-type-proj.GeneratedMSBuildEditorConfig.editorconfig
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\collection-type-proj\obj\Debug\net9.0\collection-type-proj.AssemblyInfoInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\collection-type-proj\obj\Debug\net9.0\collection-type-proj.AssemblyInfo.cs
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\collection-type-proj\obj\Debug\net9.0\collection-type-proj.csproj.CoreCompileInputs.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\collection-type-proj\obj\Debug\net9.0\collection-type-proj.sourcelink.json
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\collection-type-proj\obj\Debug\net9.0\collection-type-proj.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\collection-type-proj\obj\Debug\net9.0\refint\collection-type-proj.dll
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\collection-type-proj\obj\Debug\net9.0\collection-type-proj.pdb
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\collection-type-proj\obj\Debug\net9.0\collection-type-proj.genruntimeconfig.cache
+D:\D-Main\course_CODE\CYBERSOFT\dotnet05\buoi06\collection-type-proj\obj\Debug\net9.0\ref\collection-type-proj.dll
