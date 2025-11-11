@@ -1,0 +1,15 @@
+D:\D-Main\Programming\course_CODE\CYBERSOFT\dotnet05-repo\dotnet05\buoi11\NhanVien_OOP\obj\Debug\net9.0\NhanVien_OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\D-Main\Programming\course_CODE\CYBERSOFT\dotnet05-repo\dotnet05\buoi11\NhanVien_OOP\obj\Debug\net9.0\NhanVien_OOP.AssemblyInfoInputs.cache
+D:\D-Main\Programming\course_CODE\CYBERSOFT\dotnet05-repo\dotnet05\buoi11\NhanVien_OOP\obj\Debug\net9.0\NhanVien_OOP.AssemblyInfo.cs
+D:\D-Main\Programming\course_CODE\CYBERSOFT\dotnet05-repo\dotnet05\buoi11\NhanVien_OOP\obj\Debug\net9.0\NhanVien_OOP.csproj.CoreCompileInputs.cache
+D:\D-Main\Programming\course_CODE\CYBERSOFT\dotnet05-repo\dotnet05\buoi11\NhanVien_OOP\obj\Debug\net9.0\NhanVien_OOP.sourcelink.json
+D:\D-Main\Programming\course_CODE\CYBERSOFT\dotnet05-repo\dotnet05\buoi11\NhanVien_OOP\bin\Debug\net9.0\NhanVien_OOP.exe
+D:\D-Main\Programming\course_CODE\CYBERSOFT\dotnet05-repo\dotnet05\buoi11\NhanVien_OOP\bin\Debug\net9.0\NhanVien_OOP.deps.json
+D:\D-Main\Programming\course_CODE\CYBERSOFT\dotnet05-repo\dotnet05\buoi11\NhanVien_OOP\bin\Debug\net9.0\NhanVien_OOP.runtimeconfig.json
+D:\D-Main\Programming\course_CODE\CYBERSOFT\dotnet05-repo\dotnet05\buoi11\NhanVien_OOP\bin\Debug\net9.0\NhanVien_OOP.dll
+D:\D-Main\Programming\course_CODE\CYBERSOFT\dotnet05-repo\dotnet05\buoi11\NhanVien_OOP\bin\Debug\net9.0\NhanVien_OOP.pdb
+D:\D-Main\Programming\course_CODE\CYBERSOFT\dotnet05-repo\dotnet05\buoi11\NhanVien_OOP\obj\Debug\net9.0\NhanVien_OOP.dll
+D:\D-Main\Programming\course_CODE\CYBERSOFT\dotnet05-repo\dotnet05\buoi11\NhanVien_OOP\obj\Debug\net9.0\refint\NhanVien_OOP.dll
+D:\D-Main\Programming\course_CODE\CYBERSOFT\dotnet05-repo\dotnet05\buoi11\NhanVien_OOP\obj\Debug\net9.0\NhanVien_OOP.pdb
+D:\D-Main\Programming\course_CODE\CYBERSOFT\dotnet05-repo\dotnet05\buoi11\NhanVien_OOP\obj\Debug\net9.0\NhanVien_OOP.genruntimeconfig.cache
+D:\D-Main\Programming\course_CODE\CYBERSOFT\dotnet05-repo\dotnet05\buoi11\NhanVien_OOP\obj\Debug\net9.0\ref\NhanVien_OOP.dll
