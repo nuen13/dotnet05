@@ -1,0 +1,15 @@
+D:\D-Main\Programming\course_CODE\CYBERSOFT\dotnet05-repo\dotnet05\buoi12\SolidDesignPattern\SolidProject\bin\Debug\net9.0\SolidProject.exe
+D:\D-Main\Programming\course_CODE\CYBERSOFT\dotnet05-repo\dotnet05\buoi12\SolidDesignPattern\SolidProject\bin\Debug\net9.0\SolidProject.deps.json
+D:\D-Main\Programming\course_CODE\CYBERSOFT\dotnet05-repo\dotnet05\buoi12\SolidDesignPattern\SolidProject\bin\Debug\net9.0\SolidProject.runtimeconfig.json
+D:\D-Main\Programming\course_CODE\CYBERSOFT\dotnet05-repo\dotnet05\buoi12\SolidDesignPattern\SolidProject\bin\Debug\net9.0\SolidProject.dll
+D:\D-Main\Programming\course_CODE\CYBERSOFT\dotnet05-repo\dotnet05\buoi12\SolidDesignPattern\SolidProject\bin\Debug\net9.0\SolidProject.pdb
+D:\D-Main\Programming\course_CODE\CYBERSOFT\dotnet05-repo\dotnet05\buoi12\SolidDesignPattern\SolidProject\obj\Debug\net9.0\SolidProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\D-Main\Programming\course_CODE\CYBERSOFT\dotnet05-repo\dotnet05\buoi12\SolidDesignPattern\SolidProject\obj\Debug\net9.0\SolidProject.AssemblyInfoInputs.cache
+D:\D-Main\Programming\course_CODE\CYBERSOFT\dotnet05-repo\dotnet05\buoi12\SolidDesignPattern\SolidProject\obj\Debug\net9.0\SolidProject.AssemblyInfo.cs
+D:\D-Main\Programming\course_CODE\CYBERSOFT\dotnet05-repo\dotnet05\buoi12\SolidDesignPattern\SolidProject\obj\Debug\net9.0\SolidProject.csproj.CoreCompileInputs.cache
+D:\D-Main\Programming\course_CODE\CYBERSOFT\dotnet05-repo\dotnet05\buoi12\SolidDesignPattern\SolidProject\obj\Debug\net9.0\SolidProject.sourcelink.json
+D:\D-Main\Programming\course_CODE\CYBERSOFT\dotnet05-repo\dotnet05\buoi12\SolidDesignPattern\SolidProject\obj\Debug\net9.0\SolidProject.dll
+D:\D-Main\Programming\course_CODE\CYBERSOFT\dotnet05-repo\dotnet05\buoi12\SolidDesignPattern\SolidProject\obj\Debug\net9.0\refint\SolidProject.dll
+D:\D-Main\Programming\course_CODE\CYBERSOFT\dotnet05-repo\dotnet05\buoi12\SolidDesignPattern\SolidProject\obj\Debug\net9.0\SolidProject.pdb
+D:\D-Main\Programming\course_CODE\CYBERSOFT\dotnet05-repo\dotnet05\buoi12\SolidDesignPattern\SolidProject\obj\Debug\net9.0\SolidProject.genruntimeconfig.cache
+D:\D-Main\Programming\course_CODE\CYBERSOFT\dotnet05-repo\dotnet05\buoi12\SolidDesignPattern\SolidProject\obj\Debug\net9.0\ref\SolidProject.dll
