@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website Ca phe Tinh Iu</title>
+</head>
+<body>
+    <!-- 
+
+        Thẻ h1: hiển thị nội dung tiêu đề (h1 -> h6)
+        Nhóm thẻ: 
+            inline: độ rộng = nội dung -> NOT able to mod height and width 
+            block: độ rông full trong mặc định -> able to mod height and width
+
+        <tenThe thuocTinh = " "> content </tenThe>
+
+        common text thuocTinh:
+            + font-size (px)
+            + font-weight
+            + color 
+            + background
+            + text-align: left | center | right
+    
+    -->
+    <h1 style = "font-size:50px; font-weight: bold; color: red;background: black;text-align: center;">Ca phe Tinh Yeu</h1>
+    <h2>Ca phe Tinh Yeu</h2>
+
+
+    <!-- 
+        a -> inline  
+        + href: link
+            + / : represent host 
+            + ./:represent folder in file
+            + tenFile = files in the same folder
+        + target: 
+            + _blank -> open new tab on the right 
+    -->
+    <a href = "./">Home</a>
+    <a href = "./pages/menu.html" target="_blank" style = "font-size: 15px; font-weight: bold; color:red; text-decoration: none;">Menu</a>
+    <a href = "./pages/order.html" target="_blank">Order</a>
+
+
+    <!-- 
+    
+        hr (block) -> thể khuyết đóng giao diện là 1 đường kẻ
+        + style:
+            height 
+            background
+
+    -->
+    <hr style="height: 10px; background: red;"/>
+
+    <h1>About our cafe</h1>
+
+    <!-- 
+    
+        p (block)
+        style: 
+            font-size
+            font-weight 
+            letter-spacing
+            line-height
+        %: % compare to parent card 
+
+
+        <br/> -> break in line - xuống dòng văn bản
+
+        <b> </b>: in dam    - 
+        <i> </i>: in nghieng - font style: italic , bold
+
+    -->
+
+    <p style = "text-align: right; line-height:40px; letter-spacing: 1.5;">
+        liasugjhkd jslhika GDKJa hkjdhaKLSHD IOQHWOIHDLKASH DJLAHSAJKSHD 
+        <i> AJKHSDAS DAJKSH DKJASH DASD AHJSKD HAS DHAKJSH DJKASH DKJAHS KDJHA</i>
+        ASJ DKHASJHDKAJS HDKJAHSDOIUWHIOQ DASA SD ASDA S DNHASB HJ DJAH SDJ
+        <b>AHSJD HQUIHWD IOAUSGD OAGSD KFGAOISDGF AHSGD KJHASGD FKJAHSGD FIJHAG</b>
+        DKHJ GAFSKJHDG <br/>
+
+        ASD HGASJKHD HKAJSHD KAHSKDH
+    </p>
+
+    <hr style = "height:10px;" color="red" width="75%"/>
+
+    <h1 style = "text-align: center;"> Special Item</h1>
+
+    <!-- 
+    
+        ol, ul: use to display list (block)
+        type: kiểu thứ tự
+        trong đó 
+            ol: có thứ tự 
+            ul: ko có thứ tự 
+
+        but u can use any -> can change thứ tự with style: "list-style"
+
+    
+    -->
+
+
+    <ul style = "list-style:circle;">
+        <li> pink coffee</li>
+        <li> yellow coffee</li>
+        <li> orange coffee</li>
+    </ul>
+
+
+
+    
+    <!-- 
+    
+        img (inline-block): inline (mentioned above can change size) -> inline-block can 
+            src: link to img file 
+            alt: img name (in case img can be display - better for SEO)
+    
+    
+    -->
+
+    <h3>Display Img</h3>
+    <img src = "./img/chilling-cafe-01.jpg" alt="ca phe con de"/>
+
+
+    
+
+
+    <hr style = "height:10px;" color="red" width="75%"/>
+
+
+
+    <!-- 
+    
+        table (block): but can use align for left | right | center 
+            tr: row 
+            th | td: cell
+            thead: name 
+            tbody: content 
+            tfoot: footer 
+
+    
+    -->
+    <h3> Menu Table </h3>
+
+    <table>
+        <thead>
+            <tr>
+
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+</html>
