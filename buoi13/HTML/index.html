@@ -132,24 +132,82 @@
     
         table (block): but can use align for left | right | center 
             tr: row 
-            th | td: cell
+            th | td: cell -> th (table heading) - bold | td (table data) - normal
+                + align: left | right | center 
+                + valign: top | mid | bottom
             thead: name 
             tbody: content 
             tfoot: footer 
+            chia table: 
+                theo dòng đơn vị nhỏ nhất
+                chia cell trong mỗi dong (tính theo cột đơn vị nhỏ nhất)
+
+            chỉnh kiểu table
+                border
+                align 
+                cellspacing 
+                cellpadding
+
+            + giải quyết theo thứ tự từng dòng từ trên xuống
+            + colspan -> thì xóa td hoặc th kế bên
+
+            + when you have background-image u need this
+                + background: url(link)
+                + background-size: cover, cotain, etc
+                + background-position: 
+                + background-attachment: fixed, scrolled;
 
     
     -->
     <h3> Menu Table </h3>
 
-    <table>
+    <table border = "2" style="width: 600px;" align="center" cellspacing=0px cellpadding = 14px>
         <thead>
-            <tr>
-
+            <tr style = "background: brown;">
+                <th colspan="2">1</th>
+                <th style= "background: gray;">3</th>
+                <th>4</th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                
+                <td rowspan = "4" align="center" style = "color: white; background-image: url(./img/chilling-cafe-11.jpg); background-size: cover;background-position: center;" >
+                    cà phê truyền thống
+                </td>
+                <td rowspan = "2">2</td>
+                <td>3</td>
+                <td>4</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>4</td>
+            </tr>
+            <tr>
+                <td rowspan = "2">2</td>
+                <td>3</td>
+                <td>4</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>4</td>
+            </tr>
+            <tr>
+                <td rowspan ="3">1</td>
+                <td>2</td>
+                <td rowspan = "3">3</td>
+                <td>4</td>
+            </tr>
+            <tr>
+    
+                <td>2</td>
+  
+                <td rowspan="2">4</td>
+            </tr>
+            <tr>
+     
+                <td>2</td>
+       
+
             </tr>
         </tbody>
     </table>

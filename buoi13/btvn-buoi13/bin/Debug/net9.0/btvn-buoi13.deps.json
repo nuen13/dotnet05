@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "btvn-buoi13/1.0.0": {
+        "runtime": {
+          "btvn-buoi13.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "btvn-buoi13/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
