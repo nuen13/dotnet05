@@ -1,0 +1,42 @@
+
+
+
+h3
+{
+    color: gold;
+    background: thistle;
+}
+
+/* Common Selector  */
+
+/* 
+    #id: card's id (100 points)
+    tag_name: card's name (1 pts)
+    class = : (10 pts)
+    attribute: 10 pts 
+
+    higher the pointer -> that css will be applied 
+    if pts is equal, the one that define AFTER 
+    will be applied 
+
+    + spec scenario: low pts but want to use that css 
+    !important -> stronger than inline style 
+    avoid using it -> will cause conflict when 
+    working in a team 
+    
+
+*/
+
+#title-intro{
+    font-size: 20px;
+    color: red !important;
+}
+
+
+.title{ 
+
+}
+
+[data-section]{
+
+}

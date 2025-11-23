@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Control</title>
+</head>
+<body>
+
+    <!-- 
+        for = "" <- id's value -> allow it to be click (often use for label)
+        style: 
+            + cursor: change cursor -> indicating it's clickable
+
+        label, span (inline): similar to <a> but no link 
+
+        form : contain input cards
+            + action: send/do something when clicked
+            + method:
+                - get: send thru url (limit in character)
+                - post: data is send in private -> no limit 
+        
+        input: 
+            + type:
+                - text: string as default
+                - password: it like cover it similar to password
+                - email: self-check if email in the right format
+                - color: color picker (dont know why we need this lol )
+                - date: give u the calendar to pick date (base on local)
+                - radio: all gotta have the same name (can and should have diff id )
+                - checkbox: can pick multiple values
+                - file: allow to send file  
+                    - accept -> go with file (specify type of file can be chosen )
+            + name, id: similar to how class work -> put var on it 
+            + require:
+        textarea: similar to input text but give u bigger area -> and scrollable within the box 
+            + rows, cols: for sizes
+            + name 
+
+        select: drop box 
+            // 
+                <select id = " " name = " ">
+                    <option value = " " selected> abc </option>
+                    .... 
+                </select>
+
+            //
+
+
+        button:
+            + type:
+                submit: send data to server 
+
+            
+    -->
+
+    <form>
+
+        <label>username: </label>
+        <input type = "text" name = "username" id = "username" required/>
+        <br/>
+        
+        <label for = "password">password: </label>
+        <input type = "password" name = "password" id = "password" /> 
+
+        <br/>
+        <label>email: </label>
+        <input type = "email" name = "email" id = "email" />
+        
+        <br/>
+        <label>color: </label>
+        <input type = "color" name = "color" id = "color" />
+        
+        <br/>
+        <label>dob: </label>
+        <input type = "date" name = "dob" id = "dob" />
+
+        <br/>
+        <label>gender: </label>
+        <input type = "radio" name="gender" value = "Male" id = "male"/> <label for = "male" style="font-size: 20px; cursor: pointer;">male</label>
+        <input type = "radio" name="gender" value = "Female" id = "female"/> <label for = "female" style="font-size: 20px; cursor: pointer;">female</label>
+        <input type = "radio" name="gender" value = "Others" id = "others"/> <label for = "others" style="font-size: 20px; cursor: pointer;">others</label>
+        
+        <br/> <br/>
+
+        <label>favourite sport(s): </label><br/>
+        <input type = "checkbox" name="favSport" value = "soccer" id = "soccer"/> <label for = "soccer" style="font-size: 20px; cursor: pointer;">soccer</label> <br/>
+        <input type = "checkbox" name="favSport" value = "basketball" id = "basketball"/> <label for = "basketball" style="font-size: 20px; cursor: pointer;">basketball</label> <br/>
+        <input type = "checkbox" name="favSport" value = "valleyball" id = "valleyball"/> <label for = "valleyball" style="font-size: 20px; cursor: pointer;">valleyball</label> <br/>
+        <input type = "checkbox" name="favSport" value = "badminton" id = "badminton"/> <label for = "soccer" style="font-size: 20px; cursor: pointer;">badminton</label>
+
+        <br/> <br/>
+
+        <label>avatar: </label> 
+
+        <input type = "file" accept = "image/png,image/jpeg" name = "avatar">
+
+
+        <br/> <br/>
+        <label>description: </label>
+        <textarea rows = "5" cols = "30" name = "description"></textarea>
+
+        <br/> <br/>
+        <label>language: </label>
+        <select id = "language" name ="language">
+            <option value = "vietnamese" selected >vietnamese</option>
+            <option value = "chinese">chinese</option>
+            <option value = "japanese">japanese</option>
+            <option value = "giberish">giberish</option>
+
+        </select>
+
+
+        <br/> <br/>
+        <label>nationnality : </label>
+        <select id = "language" name ="language" multiple>
+            <option value = "vietnamese" selected >vietnamese</option>
+            <option value = "chinese">chinese</option>
+            <option value = "japanese">japanese</option>
+            <option value = "giberish">giberish</option>
+        </select>
+
+        <br/> <br/>
+
+
+        <button type = "button"> normal button </button>
+        
+        <button type = "reset"> reset button </button>
+        
+        <br/> <br/>
+
+
+        <!-- each form should only have ONE submit button -->
+        <button type = "submit">Submit</button>
+
+        
+
+    </form>
+    
+</body>
+</html>
