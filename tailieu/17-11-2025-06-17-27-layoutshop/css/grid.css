@@ -1,0 +1,27 @@
+.grid{
+    height: 600px;
+    width: 800px;
+    background-color: red;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 15px;
+}
+
+.item {
+    /* width: 50px;
+    height: 50px; */
+    background-color: green;
+}
+
+/*
+    grid-row: vị trí dòng / span số dòng chiếm
+    grid-column: vị trí cột / span số cột chiếm 
+*/
+.item5 {
+    grid-row: 1 / span 2;
+    grid-column: 1 / span 2;
+}
+.item10 {
+    grid-row: 3 / span 2;
+    grid-column: 3 / span 2;
+}  

@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HOME SHOPPE</title>
+    <link rel="stylesheet" href="/css/index.css">
+    <!--font-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+    <!--fontawesome-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+        integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body>
+    <!--
+        Các bước bố cục layout:
+        + Chia layout
+        + Thiết kế phần html trước (100%) 
+        + Css từng phần từ trên xuống dưới từ ngoài vào trong 
+            + ưu tiên bố cục trước, màu sắc kích thước và cuối cùng là hiệu ứng (animation) 
+    -->
+    <header class="header">
+        <div class="container"> <!--ý nghĩa để margin padding tất cả nội dung-->
+            <div class="contact">
+                <p>
+                    <b class="help">Need help</b> call us : <b class="phone">0909090909</b>
+                </p>
+            </div>
+            <div class="features-menu">
+                <nav class="menu">
+                    <a href="#">Register
+                        <!-- <span>aaaaa</span> -->
+                    </a>
+                    <a href="#">Login</a>
+                    <a href="#">Delivery</a>
+                    <a href="#">Checkout</a>
+                    <a href="#" class="item-last">My Account</a>
+                </nav>
+            </div>
+        </div>
+        <hr color="gainsboro" />
+    </header>
+    <section class="logo-cart">
+        <div class="container">
+            <a class="logo">
+                <span class="h">H</span>
+                ome shoppe
+            </a>
+            <div class="cart">
+                Welcome to our Online Store! <span class="cart-text"> Cart </span>: O item(s) - 50.00 <i
+                    class="fa fa-sort-down"></i>
+            </div>
+        </div>
+    </section>
+    <section class="menu-bar">
+        <div class="container">
+            <nav class="menu-home">
+                <a href="#">home</a>
+                <a href="#">about</a>
+                <a href="#">delivery</a>
+                <a href="#">about</a>
+                <a href="#">contact</a>
+            </nav>
+            <form class="frm-search">
+                <input class="input-search" placeholder="search" />
+                <i class="fa fa-search"></i>
+            </form>
+        </div>
+    </section>
+    <section class="categories">
+        <div class="container">
+            <nav class="category">
+                <h1 class="title">Catagories</h1>
+                <ul class="list">
+                    <li class="item">
+                        <h1>Phone</h1>
+                        <ul class="item-list">
+                            <li class="li-item">
+                                <a href="#"> Iphone</a>
+                            </li>
+                            <li class="li-item">
+                                <a href="#"> Samsung</a>
+                            </li>
+                            <li class="li-item">
+                                <a href="#"> Samsung</a>
+                            </li>
+                            <li class="li-item">
+                                <a href="#"> Samsung</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="item">
+                        <h1>Desktop</h1>
+                        <ul class="item-list">
+                            <li class="li-item">
+                                <a href="#"> Iphone</a>
+                            </li>
+                            <li class="li-item">
+                                <a href="#"> Samsung</a>
+                            </li>
+                            <li class="li-item">
+                                <a href="#"> Samsung</a>
+                            </li>
+                            <li class="li-item">
+                                <a href="#"> Samsung</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="item">
+                        <h1>Laptop</h1>
+                        <ul class="item-list">
+                            <li class="li-item">
+                                <a href="#"> Iphone</a>
+                            </li>
+                            <li class="li-item">
+                                <a href="#"> Samsung</a>
+                            </li>
+                            <li class="li-item">
+                                <a href="#"> Samsung</a>
+                            </li>
+                            <li class="li-item">
+                                <a href="#"> Samsung</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="item">
+                        <h1>Macbook</h1>
+                        <ul class="item-list">
+                            <li class="li-item">
+                                <a href="#"> Iphone</a>
+                            </li>
+                            <li class="li-item">
+                                <a href="#"> Samsung</a>
+                            </li>
+                            <li class="li-item">
+                                <a href="#"> Samsung</a>
+                            </li>
+                            <li class="li-item">
+                                <a href="#"> Samsung</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="item">
+                        <h1>PC</h1>
+                        <ul class="item-list">
+                            <li class="li-item">
+                                <a href="#"> Iphone</a>
+                            </li>
+                            <li class="li-item">
+                                <a href="#"> Samsung</a>
+                            </li>
+                            <li class="li-item">
+                                <a href="#"> Samsung</a>
+                            </li>
+                            <li class="li-item">
+                                <a href="#"> Samsung</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="item">
+                        <h1>Gear</h1>
+                        <ul class="item-list">
+                            <li class="li-item">
+                                <a href="#"> Iphone</a>
+                            </li>
+                            <li class="li-item">
+                                <a href="#"> Samsung</a>
+                            </li>
+                            <li class="li-item">
+                                <a href="#"> Samsung</a>
+                            </li>
+                            <li class="li-item">
+                                <a href="#"> Samsung</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </nav>
+            <div class="carousel">
+                <img src="/images/slide-2-image.jpg" alt="slide2" />
+                <div class="desc">
+                    <h2>CLEARANCE</h2>
+                    <h3>SALE</h3>
+                    <p class="desc-sale">UPTo 10% OFF</p>
+                    <p class="desc-detail">Get to Know More About Our Memorable
+                        Services Lorem Ipsum is simply dummy text</p>
+                    <button class="btn">Shop now</button>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="products">
+        <div class="container">
+            <div class="product-title">
+                <h1>New products</h1>
+                <a href="#" class="see-all">See all products </a>
+            </div>
+            <div class="product-item">
+                <div class="item">
+                    <div class="card">
+                        <img src="https://i.pravatar.cc" alt="..." />
+                        <div class="card-content">
+                            <h3 class="card-title">LOREM IPSUM IS SIMPLY</h3>
+                            <div class="card-desc">
+                                <div class="price">88 $</div>
+                                <button class="btn-add-to-cart">Add to cart <i class="fa fa-cart-plus"></i> </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="card">
+                        <img src="https://i.pravatar.cc" alt="..." />
+                        <div class="card-content">
+                            <h3 class="card-title">LOREM IPSUM IS SIMPLY</h3>
+                            <div class="card-desc">
+                                <div class="price">88 $</div>
+                                <button class="btn-add-to-cart">Add to cart <i class="fa fa-cart-plus"></i> </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="card">
+                        <img src="https://i.pravatar.cc" alt="..." />
+                        <div class="card-content">
+                            <h3 class="card-title">LOREM IPSUM IS SIMPLY</h3>
+                            <div class="card-desc">
+                                <div class="price">88 $</div>
+                                <button class="btn-add-to-cart">Add to cart <i class="fa fa-cart-plus"></i> </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="card">
+                        <img src="https://i.pravatar.cc" alt="..." />
+                        <div class="card-content">
+                            <h3 class="card-title">LOREM IPSUM IS SIMPLY</h3>
+                            <div class="card-desc">
+                                <div class="price">88 $</div>
+                                <button class="btn-add-to-cart">Add to cart <i class="fa fa-cart-plus"></i> </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="card">
+                        <img src="https://i.pravatar.cc" alt="..." />
+                        <div class="card-content">
+                            <h3 class="card-title">LOREM IPSUM IS SIMPLY</h3>
+                            <div class="card-desc">
+                                <div class="price">88 $</div>
+                                <button class="btn-add-to-cart">Add to cart <i class="fa fa-cart-plus"></i> </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="card">
+                        <img src="https://i.pravatar.cc" alt="..." />
+                        <div class="card-content">
+                            <h3 class="card-title">LOREM IPSUM IS SIMPLY</h3>
+                            <div class="card-desc">
+                                <div class="price">88 $</div>
+                                <button class="btn-add-to-cart">Add to cart <i class="fa fa-cart-plus"></i> </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="card">
+                        <img src="https://i.pravatar.cc" alt="..." />
+                        <div class="card-content">
+                            <h3 class="card-title">LOREM IPSUM IS SIMPLY</h3>
+                            <div class="card-desc">
+                                <div class="price">88 $</div>
+                                <button class="btn-add-to-cart">Add to cart <i class="fa fa-cart-plus"></i> </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="card">
+                        <img src="https://i.pravatar.cc" alt="..." />
+                        <div class="card-content">
+                            <h3 class="card-title">LOREM IPSUM IS SIMPLY</h3>
+                            <div class="card-desc">
+                                <div class="price">88 $</div>
+                                <button class="btn-add-to-cart">Add to cart <i class="fa fa-cart-plus"></i> </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="product-title">
+                <h1>Feature products</h1>
+                <a href="#" class="see-all">See all products </a>
+            </div>
+            <div class="product-item">
+                <div class="item">
+                    <div class="card">
+                        <img src="https://i.pravatar.cc" alt="..." />
+                        <div class="card-content">
+                            <h3 class="card-title">LOREM IPSUM IS SIMPLY</h3>
+                            <div class="card-desc">
+                                <div class="price">88 $</div>
+                                <button class="btn-add-to-cart">Add to cart <i class="fa fa-cart-plus"></i> </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="card">
+                        <img src="https://i.pravatar.cc" alt="..." />
+                        <div class="card-content">
+                            <h3 class="card-title">LOREM IPSUM IS SIMPLY</h3>
+                            <div class="card-desc">
+                                <div class="price">88 $</div>
+                                <button class="btn-add-to-cart">Add to cart <i class="fa fa-cart-plus"></i> </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="card">
+                        <img src="https://i.pravatar.cc" alt="..." />
+                        <div class="card-content">
+                            <h3 class="card-title">LOREM IPSUM IS SIMPLY</h3>
+                            <div class="card-desc">
+                                <div class="price">88 $</div>
+                                <button class="btn-add-to-cart">Add to cart <i class="fa fa-cart-plus"></i> </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="card">
+                        <img src="https://i.pravatar.cc" alt="..." />
+                        <div class="card-content">
+                            <h3 class="card-title">LOREM IPSUM IS SIMPLY</h3>
+                            <div class="card-desc">
+                                <div class="price">88 $</div>
+                                <button class="btn-add-to-cart">Add to cart <i class="fa fa-cart-plus"></i> </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </section>
+    <footer class="footer">
+        <div class="container">
+            <div class="flex">
+                <div class="flex-item">
+                    <h1>INFORMATION</h1>
+                    <ul class="list-item">
+                        <li class="item">
+                            <a href="#">About us</a>
+                        </li>
+                        <li class="item">
+                            <a href="#">About us</a>
+                        </li>
+                        <li class="item">
+                            <a href="#">About us</a>
+                        </li>
+                        <li class="item">
+                            <a href="#">About us</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="flex-item">
+                    <h1>INFORMATION</h1>
+                    <ul class="list-item">
+                        <li class="item">
+                            <a href="#">About us</a>
+                        </li>
+                        <li class="item">
+                            <a href="#">About us</a>
+                        </li>
+                        <li class="item">
+                            <a href="#">About us</a>
+                        </li>
+                        <li class="item">
+                            <a href="#">About us</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="flex-item">
+                    <h1>INFORMATION</h1>
+                    <ul class="list-item">
+                        <li class="item">
+                            <a href="#">About us</a>
+                        </li>
+                        <li class="item">
+                            <a href="#">About us</a>
+                        </li>
+                        <li class="item">
+                            <a href="#">About us</a>
+                        </li>
+                        <li class="item">
+                            <a href="#">About us</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="flex-item">
+                    <h1>CONTACT</h1>
+                    <ul class="list-item">
+                        <li class="item">
+                            <a href="#">+91-123-456789</a>
+                        </li>
+                        <li class="item">
+                            <a href="#">+00-123-000000</a>
+                        </li>
+
+                    </ul>
+                    <div class="social">
+                        <h3>FOLLOW US</h3>
+                        <nav class="link">
+                            <a href="#">
+                                <i class="fab fa-facebook-f"></i>
+                            </a>
+                            <a href="#">
+                                <i class="fab fa-youtube"></i>
+                            </a>
+                            <a href="#">
+                                <i class="fab fa-linkedin-in"></i>
+                            </a>
+                            <a href="#">
+                                <i class="fab fa-skype"></i>
+                            </a>
+                            <a href="#">
+                                <i class="fab fa-dribbble"></i>
+                            </a>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <section class="copy-right">
+        <p>© 2013 home shoppe. All rights reserved | Design by <a href="#">W3layouts</a></p>
+    </section>
+
+</body>
+
+</html>

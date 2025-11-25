@@ -1,0 +1,87 @@
+
+
+
+
+/* Nested CSS */
+
+/* CSS for all p in section1  */
+.section1 p{  /* 10 pts + 1 pts */
+    color  : red
+
+
+
+}
+
+/* 
+
+
+css for all p from section2 from section1
+*/
+.section1 .section2 p { /* 10 + 10 + 1 */
+    background-color: brown;
+}
+ 
+
+/* This can not override because only 10 points */
+.tag_p { 
+    background-color: pink;
+}
+
+
+
+/*  ------------  */
+
+/* Muls CSS application */
+
+/* CSS for 2 diff tags */
+.p_title, .nav_menu {
+    font-size: 20px;
+    font-weight: 100;
+    color: orange;
+}
+
+.parent> .tag_p{
+    font-size: 70px;
+}
+
+.nav_menu li:first-child{
+    text-decoration: underline;
+    border-bottom: 1px solid black;
+    display: inline-block
+}
+
+.nav_menu li:last-child{
+    text-decoration: underline;
+    border-bottom: 1px solid green;
+    display: inline-block
+}
+
+/* 1 - 2 - 3 */
+.nav_menu li:nth-child(2){
+    text-decoration: underline;
+    border-bottom: 1px solid blue;
+    display: inline-block
+}
+
+/*  
+    a::after 
+    a::before
+
+*/
+.menu_header a::before{
+    content: "( . )" ;
+    color: pink;
+    font-size: 30px;
+}
+
+.menu_header a::after{
+    content: "( . )" ;
+    color: pink;
+    font-size: 30px;
+}
+
+.menu_header div {
+    padding-left: 10px;
+    padding-right: 10px;
+    display: inline;
+}
