@@ -1,0 +1,44 @@
+.rizz {
+    background: pink;
+
+    width: 1000px;
+    height: 800px;
+
+    display: grid;
+
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 30px;
+    
+}
+
+/* 
+
+    grid-column: [n] / span [m]
+    n: vị trí cột
+    m: số cột chiếm
+
+    grid-row: [n] / span [m]
+    n: vị trí cột
+    m: số cột chiếm
+
+*/
+
+.item {
+    border: 1px solid green;
+    background: orange;
+
+    
+
+
+}
+
+
+.item1{
+    grid-column: 1 / span 2;
+    grid-row: 1 / span 2;
+}
+
+.item10{
+    grid-column: 3 / span 2;
+    grid-row: 3 / span 2;
+}

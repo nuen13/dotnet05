@@ -1,0 +1,557 @@
+/* * selector for all tags */
+
+
+/* 2 ways of using font in CSS */
+@font-face {
+    font-family: font_roboto;
+    src: url(/fonts/roboto.ttf);
+
+
+}
+
+
+* {
+    font-family: "Poiret One", sans-serif;
+    /* font-family: font_roboto; */
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+/* CSS - Header */
+
+.header {
+    /* background: red; */
+}
+
+.header .container {
+    display: flex;
+    height: 80px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.header .hotline label {
+    font-size: 16px;
+    font-weight: bold;
+    color: black;
+}
+
+.header .hotline span {
+    font-size: 16px;
+    font-weight: lighter;
+    color: gray;
+}
+
+
+/*  
+    remove underline 
+    text-decoration: none;
+*/
+.header .hotline a {
+    font-size: 16px;
+    font-weight: bold;
+    color: red;
+    text-decoration: none;
+    /* remove underline */
+}
+
+.header .nav-menu a {
+    font-size: 16px;
+    font-weight: lighter;
+    color: gray;
+    text-decoration: none;
+    margin: 0 10px;
+
+
+    /* border-[direction]: [width] [type] [color] */
+    /* border : 4 direction */
+    border-right: 1px solid grey;
+    padding-right: 10px;
+    transition: all 0.5s;
+}
+
+
+
+/* 
+    hover effect 
+
+    tag:hover
+     + transition: smoothing the transition 
+        - transition: all [time] 
+        - transition: [attribute],[attribute], ... [time]
+
+
+*/
+
+
+.header .nav-menu a:last-child {
+
+    border: none;
+
+}
+
+
+.header .nav-menu a:hover {
+
+    color: red;
+    font-size: 18px;
+    font-weight: bold;
+    transition: all 0.5s;
+}
+
+/* CSS --- LOGO & Cart */
+
+.logo{
+    /* color: red */
+}
+
+
+.logo .container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.logo .logo-title {
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+}
+
+.logo .logo-title label{
+    background: red;
+    color: white;
+    padding: 0px 10px;
+    height: 100%;
+    display: inline-block; /*turn inline into inline block*/
+    margin: 20px 0px;
+
+}
+
+
+.logo .cart label, .logo .cart w.fa-caret-down{
+    color: red;
+    font-size: 20px;
+    font-weight: bold;;
+}
+
+/* CSS -- meu */
+
+.menu {
+    
+    position: sticky;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    bottom: 0px;
+
+    margin-top: 30px;
+
+    
+}
+
+
+.menu .container {
+    display: flex;
+    height: 50px;
+    justify-content: space-between;
+    align-items: center;
+    background: black;
+    width: 90%;
+    margin: 10px auto;
+    border-radius: 10px;
+    transition: all 0.5;
+}
+
+.menu .container .list-item li{
+    display: inline-block;
+    border-right: 1px solid gray
+
+}
+
+
+.menu .container .list-item a {
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+    padding: 0px 10px;
+    
+}
+
+.menu .container .list-item li:last-child {
+    border: none;
+}
+
+
+.menu .container .list-item li:hover{
+    background-color: red;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 0px;
+
+    transition: all 0.5;
+
+
+    
+}
+
+.menu .container .list-item li:first-child:hover{
+    background-color: red;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 10px 0px 0px 10px;
+
+    transition: all 0.5;
+
+}
+
+
+.menu .form-search{
+    position: relative;
+}
+
+.menu .form-search i {
+    position:absolute;
+    right: 45px;
+    top: 7px;
+
+    color: gray;
+}
+
+.menu .form-search input {
+    width: 300px;
+    height: 30px;
+    border-radius: 10px;
+    margin-right: 15px;
+
+    font-size: 16px;
+    font-weight: 300;
+    color: gray;
+}
+
+.menu .form-search input::placeholder {
+    padding-left: 20px;
+}
+
+.menu .form-search::after{
+
+    content: "\f002";
+}
+
+
+/* Section 4 -- Categories */
+
+.categories{
+    /* background: pink; */
+    width: 80%;
+    margin: 0px auto;
+}
+
+.categories .container {
+    display: flex;
+    height: 800px;
+    /* max-height: 1200px; */
+    overflow: hidden;
+    gap: 10px;
+}
+
+.categories .menu-cate {
+    /* background: red; */
+
+    width: 25%;
+
+    border: 1px solid gray;
+}
+
+.categories .menu-cate h3 {
+
+    padding: 15px;
+    
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 400;
+
+    background: red;
+}
+
+.categories .menu-cate ul.list-item {
+
+    padding-left: 30px;
+    margin-top: 20px;
+
+    list-style: none;
+}
+
+.categories .menu-cate ul.list-item li.item-cate {
+    margin: 5px 0;
+    
+    font-size: 20px;
+    color: gray;
+    padding: 10px;
+
+    cursor: pointer;
+
+}
+
+.categories .menu-cate .list-child{
+    /* display: none; */
+
+    list-style: none;
+
+    
+
+
+
+    height: 0px;
+    overflow: hidden;
+
+    transition: all 0.5s;
+    
+
+}
+
+.categories .menu-cate .list-child li{ 
+
+    margin: 15px 30px;
+    
+
+}
+
+.categories .menu-cate .list-child li a{ 
+
+    color: black;
+    font-size: 18px;
+    font-weight: 300;
+    text-decoration: none;
+    text-transform: lowercase;
+
+    transition: color 0.3s;
+
+}
+
+.categories .menu-cate .list-child li a:hover{ 
+
+    color: red;
+
+    transition: color 0.3s;
+
+}
+
+.categories .menu-cate ul.list-item li:hover .list-child{
+
+
+    color: red;
+    font-weight: bold;
+
+    /* display: block; */
+
+    height: 100px;
+    overflow: initial;
+
+    transition: all 0.5s;
+}
+
+
+/* right - carousel */
+
+.categories .carousel {
+    display: flex;
+    width: 75%;
+
+    justify-content: space-around;
+    align-items: center;
+
+    border: 1px solid gray
+}
+
+
+.categories .content{
+
+    /* background: green; */
+
+
+}
+
+.categories img{
+    height: 450px;
+}
+
+.categories .carousel .content h1 {
+    font-size: 50px;
+    font-weight: bold;
+    color: red;
+}
+
+.categories .carousel .content h2 {
+    font-size: 70px;
+    font-weight: bold;
+    color: red;
+}
+
+.categories .carousel .content .p-title {
+    font-size: 30px;
+    font-weight: 300;
+    color: grey;
+}
+
+.categories .carousel .content .p-text {
+    font-size: 16px;
+    font-weight: 300;
+    color: grey;
+    width: 60%;
+    margin-bottom: 20px;
+}
+
+.categories .carousel .content .btn-shop {
+
+    font-size: 20px;
+    font-weight: 300;
+    color: white;
+
+    text-transform: capitalize;
+
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    background-color: red;
+
+    cursor: pointer;
+    transition: all 0.5;
+
+}
+
+.categories .carousel .content .btn-shop:hover {
+
+    background-color: darkred;
+    transition: all 0.5;
+}
+
+/* CSS - Section 5 - product-section */
+
+.products-section {
+    /* background: pink; */
+}
+
+.products-section .container {
+    width: 80%;
+    margin: 0px auto;
+}
+
+.products-section .products{
+    margin: 15px 0;
+}
+
+
+.products-section .products .title{
+
+    border: 1px solid gray;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.products-section .products .title-product{
+    font-size: 25px;
+    font-weight: 300;
+    color: gray;
+    text-transform: uppercase;
+}
+
+
+.products-section .products .load-more{
+    font-size: 25px;
+    font-weight: 300;
+    color: gray;
+    text-transform: capitalize;
+}
+
+.products-section .products .load-more .fa{
+    color: red;
+} 
+
+
+.products-section .grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 15px;
+    overflow: scroll;
+
+    margin: 15px 0px
+}
+
+.products-section  .grid .item {
+    border: 1px solid gray;
+    padding: 20px;
+
+}
+
+.products-section  .grid .item .card {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+.products-section  .grid .item .product-name {
+   
+    font-size: 30px;
+    font-weight: 300;
+    color: black;
+
+    margin-bottom: 10px;
+
+}
+
+
+
+
+.products-section .grid img{ 
+    width: 300px;
+    
+}
+
+.products-section  .grid .item .bottom-card {
+    display: flex;
+    justify-content: space-between;
+
+    margin-bottom: 10px;
+}
+
+.products-section  .grid .bottom-card .product-price {
+   
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+
+    margin-top: 10px;
+
+}
+
+.products-section  .grid .bottom-card .btn-add-to-card {
+
+    font-size: 20px;
+    font-weight: 300;
+    color: white;
+
+    text-transform: capitalize;
+
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    background-color: red;
+
+    cursor: pointer;
+    transition: all 0.5;
+
+}
+.products-section  .grid .bottom-card .btn-add-to-card:hover {
+
+    background-color: darkred;
+    transition: all 0.5;
+}

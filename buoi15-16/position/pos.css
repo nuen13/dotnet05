@@ -1,0 +1,41 @@
+
+/* 
+    4 state of position:
+    - static: 
+        giá trị mặc định (các phần tử tại vị trí đc setup sẵn)
+    - relative: 
+        object đc nhấc lên với gốc tọa độ tại nơi đặt phần tử đó 
+        (có thể dị chuyển phần tử bằng top, left, right, bottom)
+        + gốc -> initial position 
+    - absolute:
+        + gốc -> 
+            lấy tại vị trí so với thẻ parent có 'position' 
+            gần nhất (nếu ko có thể cha nào có `position`
+            thì lấy gốc của browser (window)
+    - fixed: 
+        + gốc -> based on window 
+
+*/
+
+
+.parent {
+    width: 800px;
+    height: 800px;
+    background: yellow;
+}
+
+.item1 {
+    width: 100px;
+    height: 100px;
+
+    background: green;
+
+}
+
+
+.item2 {
+    width: 100px;
+    height: 100px;
+    background: red;
+
+}
