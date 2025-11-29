@@ -1,0 +1,128 @@
+
+/* 
+
+    Depends on how ur boostrap is defined 
+    if it look like this: `rgba(var(--bs-primary-rgb)'
+    then the rbg version will work because it is defined
+    in rbg format 
+
+    but to be safe just use both ver -> some component may 
+    use the other version 
+
+*/
+
+
+/* 
+    Boostrap Direction
+    
+    | top bottom start end | 
+
+    
+
+
+
+
+
+*/
+
+
+
+/* 
+    
+    Hệ màu boostrap
+    - primary: blue
+    - success: green 
+    - danger: red 
+    - dark/black 
+    - light/white
+
+        - dark/light -> for theme 
+
+    - warning: yellow 
+    - secondary: gray 
+    - info: light blue
+    - transparent
+
+
+
+
+    Hệ màu đi liền với: color, background, border
+    component, etc... 
+    
+    Đơn vị của Boostrap: 1, 2, 3, 4, 5 
+    Ứng với mỗi thuộc tính khác nhau thì giá trị sẽ 
+    khác nhau
+
+    Hướng của Boostrap: top bottom start end
+
+    display unit: xs, sm, md, lg, xl, xxl 
+
+    percentage unit: 0 25 50 75 100
+
+*/
+
+
+/* 
+   
+    rem
+    px: pixel -> default 
+    pt: point 
+    %: depend on parent 
+    rem: based on font-size of html (default is 16)
+
+    em: based on rem of parent
+
+*/
+
+html{
+    --color: red;
+
+    font-size: 16px;
+}
+
+.text-rem{
+    /* 
+        if default is 16 
+
+        1rem -> 16px
+        2rem -> 32 -->> 
+
+        we can change the default
+    
+    */
+    font-size: 1rem ; 
+}
+
+
+:root{
+    --bs-success:#a52a2a;
+    --bs-success-rgb:165, 42, 42;
+
+    --bs-primary:#ffa500;
+    --bs-primary-rgb: 255, 165, 0;
+
+    --bs-secondary:#17921d;
+    --bs-secondary-rgb: 23, 146, 29;
+
+    --bs-warning:#369757;
+    --bs-warning-rgb: 54, 151, 87;
+
+    --bs-info:#ffa500;
+    --bs-info-rgb: 255, 165, 0;   
+}
+
+
+.text-red {
+    color: var(--color);
+}
+
+.square {
+    background: blue;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+}
+
+.bg-red{
+    background: var(--color);
+}

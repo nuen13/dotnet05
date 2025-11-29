@@ -1,0 +1,81 @@
+/* =========================
+   DESKTOP FIRST (default)
+   ========================= */
+/* Put ALL normal styles here. Desktop = base. */
+
+
+/* =========================
+   XXL DESKTOP (very large)
+   ========================= */
+@media (max-width: 1800px) {
+  /* styles */
+}
+
+/* =========================
+   XL DESKTOP
+   ========================= */
+@media (max-width: 1600px) {
+  /* styles */
+}
+
+/* =========================
+   LARGE DESKTOP
+   ========================= */
+@media (max-width: 1440px) {
+  /* styles */
+}
+
+/* =========================
+   SMALL DESKTOP / LAPTOP
+   ========================= */
+@media (max-width: 1280px) {
+  /* styles */
+}
+
+
+/* =========================
+   LARGE TABLET
+   ========================= */
+@media (max-width: 1024px) {
+  /* styles */
+}
+
+
+/* =========================
+   TABLET
+   ========================= */
+@media (max-width: 900px) {
+  /* styles */
+}
+
+
+/* =========================
+   SMALL TABLET / BIG PHONE
+   ========================= */
+@media (max-width: 768px) {
+  /* styles */
+}
+
+
+/* =========================
+   MOBILE
+   ========================= */
+@media (max-width: 600px) {
+  /* styles */
+}
+
+
+/* =========================
+   SMALL MOBILE
+   ========================= */
+@media (max-width: 480px) {
+  /* styles */
+}
+
+
+/* =========================
+   TINY PHONE
+   ========================= */
+@media (max-width: 360px) {
+  /* styles */
+}

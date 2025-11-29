@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Boostrap Basic</title>
+
+    <link rel="stylesheet" href="style.css">
+
+
+    <!-- boostrap css -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+    <!-- Utilities -->
+
+    <div class="container">
+        <h1>Bootstrap - Utilities</h1>
+
+        <!-- 
+            Background
+
+            bg-[color]
+            text-[color]
+
+        -->
+        <div class="bg-dark text-white">Lorem ipsum dolor sit amet.</div>
+        <div class="bg-info text-warning">Lorem ipsum dolor sit amet.</div>
+        <div class="bg-white text-success">Lorem ipsum dolor sit amet.</div>
+        <div class="bg-white
+         text-primary">Lorem ipsum dolor sit amet.</div>
+        <div class="bg-success text-primary">Lorem ipsum dolor sit amet.</div>
+
+    </div>
+    <hr />
+
+
+    <!-- 
+    border 
+    border-[size]: size -> 0 1 2 3 4 5 
+    border-[color]: boostrap color 
+    
+    border-[direction: top | bottom | start | end]
+    border-radius -> rounded | circle
+
+    rouned
+    -->
+
+    <div class="container">
+        <h3>
+            <pre>
+                border 
+                border-[size]: size -> 0 1 2 3 4 5 
+                border-[color]: boostrap color 
+            </pre>
+        </h3>
+
+        <label class="border border-1 border-success">Lorem, ipsum.</label>
+        <label class="border border-3 border-danger">Lorem, ipsum.</label>
+        <label class="border border-0 border-primary">Lorem, ipsum.</label>
+
+
+        <label class="border-bottom border-1 border-primary">Lorem, ipsum.</label>
+        <label class="border-end border-1 border-primary">Lorem, ipsum.</label>
+
+
+        <label class="bg-dark text-white rounded-2">Lorem, ipsum.</label>
+
+
+        <div class="square rounded-circle"></div>
+        <div class="square rounded-start-1"></div>
+    </div>
+
+
+    <hr />
+
+    <!-- 
+        TEXT 
+
+        font size -> fs-[unit]: 1 -> h1, h2, h3, h4 
+        font weight -> fw-[unit] -> bold -> light
+        display-[unit]: 1 -> 5 (bigger than h1)
+
+        text-[color]
+        text-opacity
+
+    
+    -->
+
+    <p class="fs-1 fw-bold text-danger">Lorem, ipsum.</p>
+    <p class="display-1 fw-light">Lorem, ipsum.</p>
+    <p class="display-1 fw-light">Lorem, ipsum.</p>
+
+    <p class="fs-1 fw-bold text-warning text-opacity-25">Lorem, ipsum.</p>\
+
+    <hr />
+
+    <!-- 
+
+        Display: 
+         d-[value]: block, inline, flex, grid, none, ...
+         d-[display unit]
+        d-[value]-[display unit]:   kích hoạt display tương 
+                                    ứng khi màn hình đó đúng 
+                                    với width
+
+        + flex attribute
+        - flex-[row | column] flex-direction: ứng với css row-col
+        - justify-content-[giá trị của justify]
+        - align-items-[giá trị của align-items]
+        - gap-[unit]: gap-0, gap-1
+
+
+    
+    -->
+    <div class="container">
+        <div class="parent d-block d-lg-flex justify-content-between">
+            <div class="bg-dark w-25">1</div>
+            <div class="p-1" style="grid-template-columns: 1fr 1fr 1fr 1fr;">
+                <div class="bg-dark w-25">1</div>
+                <div class="bg-danger w-25">2</div>
+                <div class="bg-primary w-25">3</div>
+                <div class="bg-secondary w-25">4</div>
+            </div>
+        </div>
+
+        <hr />
+        <div class="container">
+
+            <p class="text-red"> asdas asdjhaiksjd asd </p>
+
+            <div class="bg-red" style="width: 100px; height: 199px;"></div>
+
+            <div class="square bg-secondary"></div>
+
+            <div class="square bg-default"></div>
+
+        </div>
+
+        <hr />
+
+        <!--  
+
+        OBJECT-FIT: Căn chỉnh vị trí load ảnh trên img 
+
+    
+    -->
+        <div class="container">
+            <img src="https://piscum.photos/id/10/500/500" alt="..." class="object-fit-cover w-100"
+                style="height: 200px;" />
+        </div>
+
+        <hr />
+
+        <!-- 
+        opacity-[percentage unit]: 0 25 50 75 100
+
+    
+    -->
+
+        <p class="opacity-25">Lorem, ipsum.</p>
+
+        <hr />
+        <!-- 
+
+            Overflow: 
+            overflow-[unit]
+
+        -->
+
+
+        <div class="bg-warning text-dark overflow-x-hidden" style="width: 200px; height: 100;">
+            <p style = "width: 300px;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit soluta voluptates quo accusamus quasi fuga quisquam quod, possimus culpa aspernatur obcaecati consequatur! Magnam at debitis dolores sit illum ipsam velit!</p>
+
+        </div>
+        <hr />
+        <!-- 
+        
+            Position:
+            position-[value]: static, fixed, relative, absolute 
+            [direction] [percentage]: top-0 bottom-25 star-75 end-100 ...
+            index-[unit]: index-0 index-1 ...
+        -->
+
+
+            <div class = "bg-primary text-white text-center" style="width: 100px;">
+
+                notify 
+                <label class = "fs-5 bg-danger rounded-circle position-absolute top-1 right-0" style = "width: 30px; height: 30px;">5</label>
+
+            </div>
+
+
+
+
+
+        <hr />
+
+        <!-- 
+        
+            Sizing (width, height ) - spacing (margin padding )
+
+            w-[percentage]
+            h-[percentage]
+
+            p | px | py | pt pb ps pe: padding-[unit]
+            m | mx | my | mt bm ms me: margin-[unit]
+
+        -->
+
+        <div class = "bg-dark text-white d-flex">
+            <p class = "bg-danger w-25">item 1</p> 
+            <p class = "bg-danger w-25 text-rem">item 2</p> 
+        </div>
+
+        <div class ="bg-dark text-white mt-1">
+            Lorem ipsum dolor sit.
+        </div>
+
+
+
+
+
+        <!-- Boostrap Javascript -->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+            crossorigin="anonymous"></script>
+
+
+
+
+</body>
+
+</html>
