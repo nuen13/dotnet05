@@ -72,6 +72,12 @@
 
     em: based on rem of parent
 
+
+    each padding/margin unit is 0.25rem 
+
+    1: 0.25rem
+    2: 0.5rem 
+
 */
 
 html{

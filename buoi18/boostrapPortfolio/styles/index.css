@@ -1,0 +1,39 @@
+/* * {
+    background: green;
+} */
+
+
+
+
+.header a.active {
+    color: var(--bs-success) !important
+
+
+}
+
+.header .navbar-nav {
+    gap: 10px;
+}
+
+.header .navbar-nav li{
+    position: relative;
+}   
+
+.header .navbar-nav li::after{
+    position: absolute;
+    content: "";
+    width: 0%;
+    height: 3px;
+    background: white;
+    left: 8px;
+    margin: 0 auto;
+    
+    transition: all 0.2s;
+}
+
+
+.header .navbar-nav li:hover::after{
+    width: 85%;
+
+    transition: all 0.2s;
+}

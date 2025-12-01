@@ -1,0 +1,17 @@
+
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+
+.side-bar{
+    width: 25%;
+    background: orange;
+
+    min-height: 100vh;
+    min-width: 25vh;
+}
+
+.content {
+    width: 75%;
+}

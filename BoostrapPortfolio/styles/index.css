@@ -1,0 +1,77 @@
+* {
+    background: #EDE8E4;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+    font-size: 30px;
+
+}
+
+
+:root{
+    --bs-primary:#FAB1D7;
+    --bs-primary-rgb:253,178,218;
+
+    --bs-secondary:black;
+    --bs-secondary-rgb:0, 0,0 ;
+
+    --bs-success:#C8EF91;
+    --bs-success-rgb:200,239,145;
+}
+
+
+.navbar-ctn{
+
+    position: relative;
+
+}
+
+.navbar-ctn .ctn{
+
+    border-bottom: 2px solid black;
+    z-index: 1;
+}
+
+/* Section 1 - Nav Bar */
+.link-text{
+
+    text-decoration: none;
+}
+
+.logo-ctn{
+  position: relative;
+  z-index: 2;
+
+  top: 50px;
+}
+    
+
+.button-text{
+    font-size: 1rem;
+}
+
+/* Section 2 */
+
+.header .header-title {
+
+    font-size: 5rem;
+    font-weight: bolder;
+    color: black;
+}
+
+.lan-card{
+    align-self: center;
+}
+
+.header .item {
+    background: pink;
+    align-content: center;
+
+}
+
+.header .item1 {
+    background: green;
+
+}
+
