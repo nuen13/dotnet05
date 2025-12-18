@@ -100,3 +100,79 @@
         transform: scale(1, 1)
     }
 }
+
+
+/* available section */
+.available {
+    background: url(../img/hinh2.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 650px;
+}
+
+.overlay{
+    background: rgba(0, 0, 0, .5);
+    min-height: 650px;
+    /* backdrop-filter: blur(1px); */
+
+}
+
+.available .card{
+    background: rgba(19, 19, 19, 0.5);
+    backdrop-filter: blur(3px);
+
+    transition: all 0.2s;
+}
+
+.available .card:hover{
+    cursor: pointer;
+    border:2px solid white;
+
+    background: black;
+
+    transition: all 0.2s;
+}
+
+.achievement{
+    background: url(../img/hoho.jpg), url(../img/hehe.webp);
+    background-position: top right, bottom left;
+    background-repeat: no-repeat, no-repeat;
+    background-size: 300px 300px, 300px 300px ;
+    padding:50px 0px;
+}
+
+.achievement .card{
+    background: rgba(255, 255, 255, 0.9);
+}
+
+.carousel-demo .carousel-caption .img-profile{
+    animation: fadeUp 0.5s;
+    opacity: 0%;
+    animation-fill-mode: both;
+}
+.carousel-demo .carousel-caption h5{
+   
+    animation: fadeUp 0.5s;
+     animation-delay: 0.5s;
+     opacity: 0%;
+     animation-fill-mode: both;
+}
+
+
+.carousel-demo .carousel-caption p{
+    animation: fadeUp 0.5s;
+    animation-delay: 1s;
+    opacity: 0%;
+    animation-fill-mode: both;
+}
+@keyframes fadeUp{
+    0%{
+        transform: translateY(200px);
+        opacity:0%;
+    }
+
+    100%{
+        transform: translateY(0px);
+        opacity:100%;
+    }
+}
