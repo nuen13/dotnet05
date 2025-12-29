@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+
+
+
+    <!-- Boostrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+
+
+
+    <!-- Styles Sheet -->
+    <link rel="stylesheet" href="styles/index.css">
+
+
+    <!-- FontAwesome 6.2.0 CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css"
+        integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <!-- (Optional) Use CSS or JS implementation -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/js/all.min.js"
+        integrity="sha512-naukR7I+Nk6gp7p5TMA4ycgfxaZBJ7MO5iC3Fp6ySQyKFHOGfpkSZkYVWV5R7u7cfAicxanwYQ5D1e17EfJcMA=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+</head>
+
+<body>
+    <!-- Section 1 - Header -->
+    <header class="header position-absolute top-0 left-0 w-100 ">
+        <nav class="navbar navbar-expand-lg  bg-tranparent">
+            <div class="container">
+                <a class="navbar-brand text-danger fs-4 fw-bold px-2" href="#">
+                    <i class="fa fa-dice-d20 text-danger display-6 px-3"> </i> Aiden's Porfolio</a>
+                <button class="navbar-toggler text-danger bg-danger" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse w-100" id="navbarSupportedContent">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0 justify-content-end w-100">
+                        <li class="nav-item">
+                            <a class="nav-link text-white fw-light active" aria-current="page" href="#">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white fw-light" href="#">About</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white fw-light" href="#">Service</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white fw-light" href="#">Contact </a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Section 2 - Carousel -->
+    <section class="carousel-demo">
+        <div id="carouselExampleCaptions" class="carousel slide">
+            <div class="carousel-indicators">
+                <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active "
+                    aria-current="true" aria-label="Slide 1"></button>
+                <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" class=" "
+                    aria-label="Slide 2"></button>
+                <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" class=" "
+                    aria-label="Slide 3"></button>
+            </div>
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="./img/hinh1.jpg" class="img-carousel d-block w-100" alt="...">
+                    <div
+                        class="carousel-caption d-none d-md-flex flex-column justify-content-center align-items-center h-100">
+                        <img class="img-profile round-circle " src="./img/hihi.webp">
+                        <h5 class="display-4">First slide label</h5>
+                        <p class="fs-5">Some representative placeholder content for the first slide.</p>
+                    </div>
+                </div>
+
+                <div class="carousel-item">
+                    <img src="./img/hinh2.jpg" class="img-carousel d-block w-100" alt="...">
+                    <div
+                        class="carousel-caption d-none d-md-block d-md-flex flex-column align-items-center justify-content-center h-100">
+                        <img class="img-profile round-circle " src="./img/hihi.webp">
+                        <h5 class="display-4 ">Second slide label</h5>
+                        <p class="fs-5">Some representative placeholder content for the second slide.</p>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="./img/hinh3.jpg" class="img-carousel d-block w-100" alt="...">
+                    <div
+                        class="carousel-caption d-none d-md-block d-md-flex flex-column align-items-center justify-content-center h-100">
+                        <img class="img-profile round-circle " src="./img/hihi.webp">
+                        <h5 class="display-4 ">Third slide label</h5>
+                        <p class="fs-5">Some representative placeholder content for the third slide.</p>
+                    </div>
+                </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions"
+                data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions"
+                data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
+        </div>
+    </section>
+    <!-- Section 3 - Projects -->
+    <section class="projects pt-5">
+        <div class="container">
+            <h1 class="fs-1  fw-bold text-dark text-center"> I love what i do? </h1>
+            <p class="text-center text-secondary w-70 mx-auto">Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                Autem sit omnis odio quidem esse hic fuga
+                eveniet, ipsa quia, ex error similique blanditiis illo illum, quas corporis minima voluptatem unde
+                eligendi veritatis cumque ratione. Ipsam eos ea, possimus, libero ad architecto deleniti fugiat ullam
+                error accusantium aspernatur. Fugiat maiores optio aliquid dolore iusto quasi assumenda voluptatibus qui
+                exercitationem, placeat reprehenderit similique id quaerat odit, nesciunt facilis consectetur incidunt
+                accusamus, est delectus. Vitae, consectetur? Nisi laborum aut sunt vitae velit, pariatur vero aspernatur
+                minus, odit magni in at reprehenderit. Debitis blanditiis impedit non unde tempore esse corrupti vero
+                necessitatibus quod dolorem!</p>
+
+
+
+            <!-- nav tab project -->
+            <ul class="nav nav-pills mb-3 mb-flex justify-content-center gap-3" id="pills-tab" role="tablist">
+                <li class="nav-item" role="presentation">
+                    <button class="btn btn-outline-danger  active" id="pills-all-project-tab" data-bs-toggle="pill"
+                        data-bs-target="#pills-all-project" type="button" role="tab" aria-controls="pills-all-project"
+                        aria-selected="true">All Projects</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="btn btn-outline-danger " id="pills-illustration-tab" data-bs-toggle="pill"
+                        data-bs-target="#pills-illustration" type="button" role="tab" aria-controls="pills-illustration"
+                        aria-selected="false">Illustration</button>
+                </li>
+
+            </ul>
+            <div class="tab-content" id="pills-tabContent">
+                <div class="tab-pane fade show active" id="pills-all-project" role="tabpanel"
+                    aria-labelledby="pills-all-project-tab" tabindex="0">
+
+                    <div class="row">
+                        <div class="col-12 col-sm-6 col-md-4 mt-3">
+                            <a href="#" class="text-decoration-none">
+                                <div class="card shadow-lg">
+                                    <img class="card-img-top" src="./img/hihi.webp" alt="Title" />
+                                    <div class="card-body boder boder-white">
+                                        <h4 class="card-title fs-5 fw-light">ajskhdjka</h4>
+                                        <p class="card-text fs-6 fw-lighter">body</p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+
+
+                        <div class="col-12 col-sm-6 col-md-4 mt-3">
+                            <a href="#" class="text-decoration-none">
+                                <div class="card shadow-lg">
+                                    <img class="card-img-top" src="./img/hihi.webp" alt="Title" />
+                                    <div class="card-body boder boder-white">
+                                        <h4 class="card-title fs-5 fw-light">ajskhdjka</h4>
+                                        <p class="card-text fs-6 fw-lighter">body</p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-12 col-sm-6 col-md-4 mt-3">
+                            <a href="#" class="text-decoration-none">
+                                <div class="card shadow-lg">
+                                    <img class="card-img-top" src="./img/hihi.webp" alt="Title" />
+                                    <div class="card-body boder boder-white">
+                                        <h4 class="card-title fs-5 fw-light">ajskhdjka</h4>
+                                        <p class="card-text fs-6 fw-lighter">body</p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+
+                        <div class="col-12 col-sm-6 col-md-4 mt-3">
+                            <a href="#" class="text-decoration-none">
+                                <div class="card shadow-lg">
+                                    <img class="card-img-top" src="./img/hihi.webp" alt="Title" />
+                                    <div class="card-body boder boder-white">
+                                        <h4 class="card-title fs-5 fw-light">ajskhdjka</h4>
+                                        <p class="card-text fs-6 fw-lighter">body</p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-12 col-sm-6 col-md-4 mt-3">
+                            <a href="#" class="text-decoration-none">
+                                <div class="card shadow-lg">
+                                    <img class="card-img-top" src="./img/hihi.webp" alt="Title" />
+                                    <div class="card-body boder boder-white">
+                                        <h4 class="card-title fs-5 fw-light">ajskhdjka</h4>
+                                        <p class="card-text fs-6 fw-lighter">body</p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-12 col-sm-6 col-md-4 mt-3">
+                            <a href="#" class="text-decoration-none">
+                                <div class="card shadow-lg">
+                                    <img class="card-img-top" src="./img/hihi.webp" alt="Title" />
+                                    <div class="card-body boder boder-white">
+                                        <h4 class="card-title fs-5 fw-light">ajskhdjka</h4>
+                                        <p class="card-text fs-6 fw-lighter">body</p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-12 col-sm-6 col-md-4 mt-3">
+                            <a href="#" class="text-decoration-none">
+                                <div class="card shadow-lg">
+                                    <img class="card-img-top" src="./img/hihi.webp" alt="Title" />
+                                    <div class="card-body boder boder-white">
+                                        <h4 class="card-title fs-5 fw-light">ajskhdjka</h4>
+                                        <p class="card-text fs-6 fw-lighter">body</p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-12 col-sm-6 col-md-4 mt-3">
+                            <a href="#" class="text-decoration-none">
+                                <div class="card shadow-lg">
+                                    <img class="card-img-top" src="./img/hihi.webp" alt="Title" />
+                                    <div class="card-body boder boder-white">
+                                        <h4 class="card-title fs-5 fw-light">ajskhdjka</h4>
+                                        <p class="card-text fs-6 fw-lighter">body</p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="tab-pane fade" id="pills-illustration" role="tabpanel"
+                    aria-labelledby="pills-illustration-tab" tabindex="0">
+                    <div class="row">
+                        <div class="col-12 col-sm-6 col-md-4 mt-3">
+                            <a href="#" class="text-decoration-none">
+                                <div class="card shadow-lg">
+                                    <img class="card-img-top" src="./img/hehe.webp" alt="Title" />
+                                    <div class="card-body boder boder-white">
+                                        <h4 class="card-title fs-5 fw-light">ajskhdjka</h4>
+                                        <p class="card-text fs-6 fw-lighter">body</p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+
+
+                        <div class="col-12 col-sm-6 col-md-4 mt-3">
+                            <a href="#" class="text-decoration-none">
+                                <div class="card shadow-lg">
+                                    <img class="card-img-top" src="./img/hehe.webp" alt="Title" />
+                                    <div class="card-body boder boder-white">
+                                        <h4 class="card-title fs-5 fw-light">ajskhdjka</h4>
+                                        <p class="card-text fs-6 fw-lighter">body</p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-12 col-sm-6 col-md-4 mt-3">
+                            <a href="#" class="text-decoration-none">
+                                <div class="card shadow-lg">
+                                    <img class="card-img-top" src="./img/hehe.webp" alt="Title" />
+                                    <div class="card-body boder boder-white">
+                                        <h4 class="card-title fs-5 fw-light">ajskhdjka</h4>
+                                        <p class="card-text fs-6 fw-lighter">body</p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+    </section>
+
+    <!-- Section 4 - Available  -->
+    <section class="available mt-5">
+        <div class="overlay py-5">
+            <div class="container text-center ">
+                <h1 class="title fs-1 text-white fw-bold"> I am available for hire </h1>
+                <p class="text text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam doloremque
+                    consectetur
+                    enim minus officiis amet id praesentium, nostrum repellat non odit quia, saepe explicabo ex
+                    voluptatibus ratione facilis, asperiores iure?</p>
+                <div class="row pt-5">
+                    <div class="col-md-4 mt-sm-3">
+                        <div class="card boder border-1 ">
+                            <div class="card-body py-3">
+                                <i class="fa fa-paint-brush text-danger display-3 py-4" aria-hidden="true"></i>
+                                <h3 class="card-title fs-3 fw-bold text-white"> Design </h3>
+                                <p class="card-text text-white pt-2 pb-4">
+                                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Provident, similique?
+                                </p>
+                            </div>
+                        </div>
+
+
+                    </div>
+                    <div class="col-md-4 mt-sm-3">
+                        <div class="card boder border-1 ">
+                            <div class="card-body py-3">
+                                <i class="fa fa-paint-brush text-danger display-3 py-4" aria-hidden="true"></i>
+                                <h3 class="card-title fs-3 fw-bold text-white"> Design </h3>
+                                <p class="card-text text-white pt-2 pb-4">
+                                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Provident, similique?
+                                </p>
+                            </div>
+                        </div>
+
+
+                    </div>
+                    <div class="col-md-4 mt-sm-3">
+                        <div class="card boder border-1 ">
+                            <div class="card-body py-3">
+                                <i class="fa fa-paint-brush text-danger display-3 py-4" aria-hidden="true"></i>
+                                <h3 class="card-title fs-3 fw-bold text-white"> Design </h3>
+                                <p class="card-text text-white pt-2 pb-4">
+                                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Provident, similique?
+                                </p>
+                            </div>
+                        </div>
+
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- Section 5 - Achievement  -->
+    <section class="achievement">
+        <div class="container py-5">
+            <div class="row align-items-center mt-5">
+                <div class="col-md-4">
+                    <div class="card py-3 shadow-lg">
+                        <div class="card-body">
+                            <h1 class="card-title fs-2 text-dark fw-bold">
+                                Our Achivement and Award
+                            </h1>
+                            <p class="card-text text-dark fw-light">
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, voluptas.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 d-flex-column justify-content-center">
+                    <p class="award-text ">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorem, quos eum
+                        accusantium obcaecati eveniet optio neque saepe velit iste voluptates?</p>
+                    <div class="row">
+                        <div class="col">
+                            <img class="w-100" src="./img/hihi.webp" />
+                        </div>
+                        <div class="col">
+                            <img class="w-100" src="./img/hihi.webp" />
+                        </div>
+                        <div class="col">
+                            <img class="w-100" src="./img/hihi.webp" />
+                        </div>
+                        <div class="col">
+                            <img class="w-100" src="./img/hihi.webp" />
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+    </section>
+
+    <!-- Section 6 - Footer -->
+    <footer class="footer mt-5 py-5 text-center bg-dark text-white">
+        <div class="container">
+            <i class="fa fa-facebook border border-1 border-secondary p-2 rounded-circle" style = "width: 30px; height:30px;" aria-hidden="true"></i>
+            <i class="fa fa-facebook border border-1 border-secondary p-2 rounded-circle" style = "width: 30px; height:30px;" aria-hidden="true"></i>
+            <i class="fa fa-facebook border border-1 border-secondary p-2 rounded-circle" style = "width: 30px; height:30px;" aria-hidden="true"></i>
+            <i class="fa fa-facebook border border-1 border-secondary p-2 rounded-circle" style = "width: 30px; height:30px;" aria-hidden="true"></i>
+            <i class="fa fa-facebook border border-1 border-secondary p-2 rounded-circle" style = "width: 30px; height:30px;" aria-hidden="true"></i>
+            <hr size ="1" color = "gray" width="75%" class = "mx-auto"/>
+            <p class = "text-secondary">201283 Coi1 asd |asd8kjhebjas ikwjuqknws kasj </p>
+        </div>
+
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+        crossorigin="anonymous"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,178 @@
+.header a.active {
+    color: var(--bs-danger) !important;
+    font-weight: 700 !important;
+
+}
+
+.header .navbar-nav li {
+    position: relative;
+}
+
+.header .navbar-nav li::after {
+    position: absolute;
+    content: "";
+    width: 0%;
+    height: 2px;
+    left: 5px;
+    margin: 0 auto;
+    display: block;
+    background: black;
+
+    transition: all 0.5s;
+}
+
+.header {
+    z-index: 10;
+}
+
+.header .navbar-nav li:hover:after {
+    position: absolute;
+    content: "";
+    width: 85%;
+    height: 2px;
+    left: 5px;
+    margin: 0 auto;
+    display: block;
+    background: black;
+
+    transition: all 0.5s;
+}
+
+.carousel-demo .img-carousel {
+    max-height: 700px !important;
+}
+
+.carousel-demo .img-profile {
+    width: 150px;
+}
+
+.carousel-demo .carousel-inner .carousel-caption {
+    z-index: 2;
+}
+
+.carousel-demo .carousel-inner .carousel-item::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, .5);
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
+
+
+.carousel-demo .carousel-indicators .active {
+    opacity: 1;
+    width: 20px;
+    background: var(--bs-danger);
+    border-radius: 50%;
+
+}
+
+.carousel-indicators [data-bs-target] {
+    width: 20px;
+    background: var(--bs-secondary);
+    border-radius: 50%;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
+    background: var(--bs-danger);
+
+}
+
+.projects .card:hover {
+    border: 1px solid var(--bs-danger);
+}
+
+.projects .tab-pane .card {
+    animation: display-zoom-item .3s;
+}
+
+@keyframes display-zoom-item {
+    0% {
+        transform: scale(0, 0);
+
+    }
+
+    100% {
+        transform: scale(1, 1)
+    }
+}
+
+
+/* available section */
+.available {
+    background: url(../img/hinh2.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 650px;
+}
+
+.overlay{
+    background: rgba(0, 0, 0, .5);
+    min-height: 650px;
+    /* backdrop-filter: blur(1px); */
+
+}
+
+.available .card{
+    background: rgba(19, 19, 19, 0.5);
+    backdrop-filter: blur(3px);
+
+    transition: all 0.2s;
+}
+
+.available .card:hover{
+    cursor: pointer;
+    border:2px solid white;
+
+    background: black;
+
+    transition: all 0.2s;
+}
+
+.achievement{
+    background: url(../img/hoho.jpg), url(../img/hehe.webp);
+    background-position: top right, bottom left;
+    background-repeat: no-repeat, no-repeat;
+    background-size: 300px 300px, 300px 300px ;
+    padding:50px 0px;
+}
+
+.achievement .card{
+    background: rgba(255, 255, 255, 0.9);
+}
+
+.carousel-demo .carousel-caption .img-profile{
+    animation: fadeUp 0.5s;
+    opacity: 0%;
+    animation-fill-mode: both;
+}
+.carousel-demo .carousel-caption h5{
+   
+    animation: fadeUp 0.5s;
+     animation-delay: 0.5s;
+     opacity: 0%;
+     animation-fill-mode: both;
+}
+
+
+.carousel-demo .carousel-caption p{
+    animation: fadeUp 0.5s;
+    animation-delay: 1s;
+    opacity: 0%;
+    animation-fill-mode: both;
+}
+@keyframes fadeUp{
+    0%{
+        transform: translateY(200px);
+        opacity:0%;
+    }
+
+    100%{
+        transform: translateY(0px);
+        opacity:100%;
+    }
+}
