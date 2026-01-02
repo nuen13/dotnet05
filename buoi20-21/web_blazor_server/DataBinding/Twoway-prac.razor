@@ -1,0 +1,172 @@
+@page "/two-way-prac"
+@using System.ComponentModel.DataAnnotations
+@using Microsoft.AspNetCore.Components.Forms
+
+
+
+<h1>Fake Book</h1>
+
+<div class="row flex">
+    <div class="col-4">
+        <div class="card" style="width: 18rem;">
+            <img src="https://i.pravatar.cc?u=@likeNumber" class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
+                    card’s content.</p>
+
+                <div class="flex">
+                    <button @onmouseover="() => TangGiamLike(1)" class="button border-0 color-white bg-white"> <i
+                            class="bi bi-heart"></i>
+                    </button>
+                    @likeNumber
+                    <button @onclick="() => TangGiamLike(-1)" class="button border-0  bg-white"> ☠️
+
+                    </button>
+                </div>
+
+
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
+<h1>2 way binding - better?</h1>
+<div class="row">
+    <div class="col-6">
+        @* Model gán object @user để add binding *@
+        @* OnValidSubmit: khi form hop le thi goi function *@
+        @* OnInvalidSubmit: khi form ko hop le*@
+        <EditForm Model="@user" OnValidSubmit="DangKy" OnInvalidSubmit="InvalidSubmit">
+
+            @* Activate Validation -> depends on DataAnnotation we set in the object class  *@
+            <DataAnnotationsValidator />
+            <ValidationSummary class="text-danger" />
+            <p class="text-success">@message</p>
+            <div class="mb-3">
+                <label for="" class="form-label">Name</label>
+                <input type="text" class="form-control" @bind="@user.Name" aria-describedby="helpID" placeholder="" />
+                <ValidationMessage For="@(() => user.Name)" class="text-danger"></ValidationMessage>
+            </div>
+
+            <div class="mb-3">
+                <label for="" class="form-label">Email</label>
+                <input type="text" class="form-control" @bind="@user.Email" aria-describedby="helpID" placeholder="" />
+                <ValidationMessage For="@(() => user.Email)" class="text-danger"></ValidationMessage>
+            </div>
+
+            <div class="mb-3">
+                <label for="" class="form-label">Password</label>
+                <input type="text" class="form-control" @bind="@user.Password" aria-describedby="helpID"
+                    placeholder="" />
+                <ValidationMessage For="@(() => user.Password)" class="text-danger"></ValidationMessage>
+            </div>
+
+            <div class="mb-3">
+                <label for="" class="form-label">Gender</label>
+                @* <select class="form-select" @bind="user.Gender">
+                    <option value="true">Male</option>
+                    <option value="false">Female</option>
+                </select> *@
+
+                <input type = "radio" name = "gender" value = "true" checked  @onchange="() => DoiGioiTinh(true)" />
+                <label for = "">Male</label>
+
+                <input type = "radio" name = "gender" value = "false" @onchange="() => DoiGioiTinh(false)" />
+                <label for = "">Female</label>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Submit</button>
+            <button type="reset" class="btn btn-secondary">Reset</button>
+        </EditForm>
+
+    </div>
+    <div class="col-6">
+        <h1>Thong Tin Dang Ky</h1>
+        <p>Name: @user.Name</p>
+        <p>Email: @user.Email</p>
+        <p>Password: @user.Password</p>
+        <p>Gender: @(user.Gender ? "male" : "female")</p>
+
+        <p class="text-success">@message</p>
+
+    </div>
+</div>
+
+@code {
+
+    public class NguoiDung
+    {
+
+        // can NOT leave empty
+        [Required(ErrorMessage = "can not leave name blank")]
+        public string Name { get; set; } = "";
+
+        [Required(ErrorMessage = "can not leave email blank")]
+        [EmailAddress(ErrorMessage = "Email is not in the right format gang")]
+        public string Email { get; set; } = "";
+
+        [Required(ErrorMessage = "can not leave password blank")]
+        [MinLength(6, ErrorMessage = "password should have at least 6 characters")]
+        [MaxLength(20, ErrorMessage = "password can not exceed 20 characters")]
+        public string Password { get; set; } = "";
+
+
+        // Gender - true = male, false = female
+        // dont need required cuz already have default
+        public bool Gender { get; set; } = true;
+    }
+
+
+    // Create user's instant
+    public NguoiDung user = new NguoiDung();
+
+    public int likeNumber = 0;
+
+
+    @* void AddLike()
+    {
+        likeNumber++;
+    }
+
+      void RemoveLike()
+    {
+        
+        if(likeNumber > 0){
+            likeNumber--;
+        }
+    } *@
+
+
+
+    void TangGiamLike(int soLuong)
+    {
+        likeNumber += soLuong;
+    }
+
+    public string message = "";
+    void DangKy()
+    {
+        message = $"Dang ky thanh cong cho user {user.Name} - {user.Email}";
+    }
+
+
+    void InvalidSubmit()
+    {
+        message = $"Form Nhu loz";
+    }
+
+    void DoiGioiTinh(bool gt)
+    {
+        user.Gender = gt;
+    }
+}

@@ -1,0 +1,87 @@
+@page "/one-way"
+
+
+<h1>One-way Data Binding</h1>
+
+@Name
+
+@* One way bindinig means that data only go from c# -> to UI  *@
+
+@* Display product  *@
+<div class = "row flex">
+    <div class = "col-4 3">
+        <div class="card text-start">
+    <img class="card-img-top" src="https://i.pinimg.com/736x/61/f1/c4/61f1c4e991a48230fb8dadac23e83b11.jpg" alt="Title" />
+    <div class="card-body">
+        <h4 class="card-title">@product.Name</h4>
+        <p class="card-text">@product.Price $</p>
+    </div>
+</div>
+    </div>
+    <div class = "col-4">
+        <div class="card text-start">
+    <img class="card-img-top" src="https://i.pinimg.com/736x/61/f1/c4/61f1c4e991a48230fb8dadac23e83b11.jpg" alt="Title" />
+    <div class="card-body">
+        <h4 class="card-title">@product.Name</h4>
+        <p class="card-text">@product.Price $</p>
+    </div>
+</div>
+    </div>
+    <div class = "col-4">
+        <div class="card text-start">
+    <img class="card-img-top" src="https://i.pinimg.com/736x/61/f1/c4/61f1c4e991a48230fb8dadac23e83b11.jpg" alt="Title" />
+    <div class="card-body">
+        <h4 class="card-title">@product.Name</h4>
+        <p class="card-text">@product.Price $</p>
+    </div>
+</div>
+    </div>
+</div>
+<br />
+<br />
+<br />
+<br />
+@* form *@
+<div class="mb-3">
+    <label for="" class="form-label">Email</label>
+    <input
+        type="email"
+        class="form-control"
+        name=""
+        id=""
+        value = "@Email"
+        aria-describedby="emailHelpId"
+        placeholder="abc@mail.com"
+    />
+    @Email
+</div>
+
+<br />
+<br />
+<br />
+<br />
+
+
+<h2>Sum Cal</h2>
+<div>Tong = @Sum(3, 4)</div>
+
+
+@code {
+    public string Name = "Nam Mo Adidas Fat";
+
+    public class Product
+    {
+        public int Id { get; set; } = 1;
+        public string Name { get; set; } = "Fryster";
+        public decimal Price { get; set; } = 69420;
+
+    }
+
+    public Product product = new Product();
+
+    public string Email = "bigbootyboi123@gmail.com";
+
+    int Sum(int a, int b){
+        return a + b;
+    }
+}
