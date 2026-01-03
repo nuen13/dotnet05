@@ -1,0 +1,49 @@
+@inherits LayoutComponentBase
+
+<div class="container-fluid">
+    <div class="row min-vh-100">
+
+        <!-- Sidebar -->
+        <aside class="col-12 col-md-3 col-lg-2 bg-dark text-white p-0">
+            <div class="p-3 border-bottom">
+                <strong>Admin Panel</strong>
+            </div>
+
+            <nav class="nav flex-column nav-pills p-2">
+                <NavLink class="nav-link text-white" href="/admin" Match="NavLinkMatch.All">
+                    Dashboard
+                </NavLink>
+
+                <NavLink class="nav-link text-white" href="/admin/users">
+                    Users
+                </NavLink>
+
+                <NavLink class="nav-link text-white" href="/admin/products">
+                    Products
+                </NavLink>
+
+                <NavLink class="nav-link text-white" href="/admin/settings">
+                    Settings
+                </NavLink>
+            </nav>
+        </aside>
+
+        <!-- Main -->
+        <main class="col p-0">
+            <!-- Top bar -->
+            <nav class="navbar navbar-light bg-light border-bottom px-3">
+                <span class="navbar-brand mb-0 h6">Admin</span>
+
+                <button class="btn btn-outline-secondary btn-sm">
+                    Logout
+                </button>
+            </nav>
+
+            <!-- Content -->
+            <div class="p-4">
+                @Body
+            </div>
+        </main>
+
+    </div>
+</div>

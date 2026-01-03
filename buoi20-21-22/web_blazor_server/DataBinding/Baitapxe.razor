@@ -1,0 +1,39 @@
+@page "/bai-tap-xe"
+
+
+@* 
+
+    Có giao diện 1 hình xe với màu mặc định là đen
+    4 button để đổi màu xe: black, red, silver, steel 
+
+    Khi click vào btn thì màu xe sẽ đổi theo màu btn được click
+
+
+    có 1 biến lưu giá trị màu xe, khi chọn màu thì đổi giá trị 
+    -> render hình ảnh với màu tương ứng
+
+*@
+
+
+<div class = "container mt-5"> 
+    <h1 class = "">Bai Tap Xe</h1>
+    <img src="products/@mauXe-car.jpg" alt="bruh" width="500" />
+    
+    <button @onclick = "()=> DoiMau(0)" class  = "btn btn-dark"> black </button>
+    <button @onclick = "()=> DoiMau(1)" class = "btn btn-danger"> red </button>
+    <button @onclick = "()=> DoiMau(2)" class = "btn btn-secondary"> silver </button>
+    <button @onclick = "()=> DoiMau(3)" class = "btn btn-light border border-1 border-dark"> steel </button>
+</div>
+
+
+@code{
+
+    public List<string> dsMau = new List<string>(){"black", "red", "silver", "steel"};
+    public string mauXe = "red";
+
+    void DoiMau(int mau){
+        mauXe = dsMau[mau];
+    }
+
+}
+

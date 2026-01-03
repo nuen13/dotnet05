@@ -1,0 +1,39 @@
+@page "/two-way"
+
+
+<h1>Two-way Data Binding</h1>
+
+
+<h2>Name: @Name</h2>
+
+<br />
+
+<button @onclick="changeName">Change Name</button>
+
+
+<br />
+
+
+<div class="mb-3">
+    <label for="" class="form-label">Email</label>
+    <input
+        type="email"
+        class="form-control"
+        name=""
+        id=""
+        @bind="@Email"
+        aria-describedby="emailHelpId"
+        placeholder="abc@mail.com"
+    />
+    @Email
+</div>
+
+
+@code {
+    public string Name = "Aiden";
+    public string Email = "Email@email.com";
+    void changeName()
+    {
+        Name = "Kien";
+    }
+}
