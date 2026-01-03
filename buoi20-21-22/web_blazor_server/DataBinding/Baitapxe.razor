@@ -1,5 +1,5 @@
 @page "/bai-tap-xe"
-
+@using web_blazor_server.ComponentParam
 
 @* 
 
@@ -15,25 +15,54 @@
 *@
 
 
-<div class = "container mt-5"> 
-    <h1 class = "">Bai Tap Xe</h1>
+<div class="container mt-5">
+    <h1 class="">Bai Tap Xe</h1>
     <img src="products/@mauXe-car.jpg" alt="bruh" width="500" />
-    
-    <button @onclick = "()=> DoiMau(0)" class  = "btn btn-dark"> black </button>
-    <button @onclick = "()=> DoiMau(1)" class = "btn btn-danger"> red </button>
-    <button @onclick = "()=> DoiMau(2)" class = "btn btn-secondary"> silver </button>
-    <button @onclick = "()=> DoiMau(3)" class = "btn btn-light border border-1 border-dark"> steel </button>
+
+    <button @onclick="() => DoiMau(0)" class="btn btn-dark"> black </button>
+    <button @onclick="() => DoiMau(1)" class="btn btn-danger"> red </button>
+    <button @onclick="() => DoiMau(2)" class="btn btn-secondary"> silver </button>
+    <button @onclick="() => DoiMau(3)" class="btn btn-light border border-1 border-dark"> steel </button>
 </div>
 
 
-@code{
+<br />
+<br />
+<br />
+<br />
+<br />
 
-    public List<string> dsMau = new List<string>(){"black", "red", "silver", "steel"};
+<div class="container">
+    <div class="row">
+
+        @foreach (var mau in dsMau)
+        {
+            <div class="col-3">
+
+                @* 
+                    To send param from here to component 
+                    We need a [Parameter] in component 
+                    file and a 'parameter' here to send/receive
+                    it *@
+                <CarItem mauXe = @mau/>
+            </div>
+
+        }
+    </div>
+</div>
+
+
+
+
+
+@code {
+
+    public List<string> dsMau = new List<string>() { "black", "red", "silver", "steel" };
     public string mauXe = "red";
 
-    void DoiMau(int mau){
+    void DoiMau(int mau)
+    {
         mauXe = dsMau[mau];
     }
 
 }
-
